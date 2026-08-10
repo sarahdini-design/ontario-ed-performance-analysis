@@ -44,7 +44,10 @@ To be confirmed.
 
 ### Potential KPI
 To be confirmed.
+### Grain
+At the Ontario corporation level, each row represents one hospital corporation for one fiscal year.
 
+The dataset contains five fiscal years of data (2020–2021 through 2024–2025), resulting in 320 Ontario corporation-level records across 64 hospital corporations.
 ### Data quality observations
 To be confirmed.
 
