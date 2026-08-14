@@ -17,3 +17,16 @@ This log documents the key decisions, milestones, and changes made throughout th
 - Confirmed that both datasets contain multi-year Ontario data at the hospital corporation level.
 - Created the GitHub repository for the project.
 - Next step: inspect both datasets and refine the business problem, analytical questions, and KPIs.
+
+## August 2026 — Data Familiarization Completed
+
+- Reviewed the structure and methodology of both CIHI emergency department datasets.
+- Defined the analytical scope as Ontario hospital corporations.
+- Confirmed an analytical grain of one hospital corporation per fiscal year.
+- Confirmed 64 Ontario hospital corporations across five fiscal years, resulting in 320 corporation-year records per dataset.
+- Reviewed CIHI definitions, inclusion/exclusion criteria, 90th-percentile interpretation, peer groups, performance classifications, data coverage, and trend notes.
+- Identified 17 suppressed physician initial assessment records across five hospital corporations.
+- Identified organizational/data-attribution considerations affecting longitudinal interpretation for Sunnybrook Health Sciences Centre and Scarborough Health Network.
+- Confirmed that the two analytical datasets can be aligned using `Corporation + Time frame`.
+
+**Next step:** Prepare the raw CIHI data for SQL import, perform reproducible filtering and cleaning, validate the analytical subsets, and integrate the two indicators.
