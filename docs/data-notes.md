@@ -443,3 +443,4 @@ Using both measures may help distinguish between:
 - Performance pressure later in the ED journey for admitted patients.
 
 This supports a more informative analysis than ranking hospital corporations using only a single ED wait-time measure.
+### BE
