@@ -409,9 +409,6 @@ For hospitals, CIHI performance comparison is relative to the hospital's **peer 
 - Performance Comparison and Performance Trend are populated only for the
   most recent fiscal year (2024–2025) in the Ontario corporation-level subset.
 - Performance Comparison is available for 63 of 64 corporations.
-- The only corporation without a comparison is Weeneebayko Area Health
-  Authority, whose 2024–2025 P90 value is suppressed.
-- Performance Trend is available for 59 of 64 corporations.
 - The five corporations without a trend classification are the same five
   corporations with at least one suppressed P90 observation during the
   five-year period.
