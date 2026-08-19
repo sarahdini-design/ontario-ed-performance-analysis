@@ -350,6 +350,20 @@ The available indicator methodology reviewed so far does not state the specific 
 
 Therefore, no assumption will be made that suppression is caused by low counts, privacy rules, or another specific factor unless confirmed by CIHI documentation.
 
+### Performance Comparison and Trend Metadata
+
+- Performance Comparison and Performance Trend are populated only for the
+  most recent fiscal year (2024–2025) in the Ontario corporation-level subset.
+- Performance Comparison is available for 63 of 64 corporations.
+- The only corporation without a comparison is Weeneebayko Area Health
+  Authority, whose 2024–2025 P90 value is suppressed.
+- Performance Trend is available for 59 of 64 corporations.
+- The five corporations without a trend classification are the same five
+  corporations with at least one suppressed P90 observation during the
+  five-year period.
+- Trend classifications should therefore be interpreted cautiously for
+  organizations with incomplete longitudinal data.
+
 ### Methodological Considerations
 
 CIHI notes that coverage in the National Ambulatory Care Reporting System (NACRS) can change over time as additional jurisdictions participate.
