@@ -37,8 +37,11 @@ FULL OUTER JOIN `ontario-ed-performance-2026.ontario_ed.clean_ed_initial` AS ini
   AND admitted.time_frame = initial.time_frame;
 
 
-
-
+-- 3. Validate consistency of shared descriptive fields
+-- Expected results:
+-- peer_group_mismatches = 0
+-- region_mismatches = 0
+-- urban_rural_mismatches = 0
 
 SELECT
   COUNTIF(
