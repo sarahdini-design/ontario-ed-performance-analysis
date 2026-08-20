@@ -35,3 +35,26 @@ FROM `ontario-ed-performance-2026.ontario_ed.clean_ed_admitted` AS admitted
 FULL OUTER JOIN `ontario-ed-performance-2026.ontario_ed.clean_ed_initial` AS initial
   ON admitted.corporation = initial.corporation
   AND admitted.time_frame = initial.time_frame;
+
+
+
+
+
+SELECT
+  COUNTIF(
+    admitted.hospital_peer_group IS DISTINCT FROM initial.hospital_peer_group
+  ) AS peer_group_mismatches,
+
+  COUNTIF(
+    admitted.region IS DISTINCT FROM initial.region
+  ) AS region_mismatches,
+
+  COUNTIF(
+    admitted.urban_or_rural_remote IS DISTINCT FROM initial.urban_or_rural_remote
+  ) AS urban_rural_mismatches
+
+FROM `ontario-ed-performance-2026.ontario_ed.clean_ed_admitted` AS admitted
+
+INNER JOIN `ontario-ed-performance-2026.ontario_ed.clean_ed_initial` AS initial
+  ON admitted.corporation = initial.corporation
+  AND admitted.time_frame = initial.time_frame;
