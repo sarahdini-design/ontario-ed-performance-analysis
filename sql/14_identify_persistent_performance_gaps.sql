@@ -32,6 +32,7 @@ SELECT
   corporation,
   hospital_peer_group,
 
+  -- Initial Assessment
   COUNT(initial_p90_hours) AS initial_available_years,
 
   COUNTIF(
@@ -39,14 +40,19 @@ SELECT
   ) AS initial_years_above_peer_median,
 
   CASE
-    WHEN COUNT(initial_p90_hours) >= 4
-      AND COUNTIF(
-        initial_p90_hours > peer_median_initial_p90
-      ) >= 4
-    THEN TRUE
-    ELSE FALSE
-  END AS persistent_initial_gap,
+    WHEN COUNT(initial_p90_hours) < 4
+      THEN 'Insufficient data'
 
+    WHEN COUNTIF(
+      initial_p90_hours > peer_median_initial_p90
+    ) >= 4
+      THEN 'Persistent gap'
+
+    ELSE 'No persistent gap'
+  END AS initial_gap_status,
+
+
+  -- Admitted Patient ED Stay
   COUNT(admitted_p90_hours) AS admitted_available_years,
 
   COUNTIF(
@@ -57,9 +63,10 @@ SELECT
     WHEN COUNTIF(
       admitted_p90_hours > peer_median_admitted_p90
     ) >= 4
-    THEN TRUE
-    ELSE FALSE
-  END AS persistent_admitted_gap
+      THEN 'Persistent gap'
+
+    ELSE 'No persistent gap'
+  END AS admitted_gap_status
 
 FROM peer_benchmarks
 
@@ -68,6 +75,4 @@ GROUP BY
   hospital_peer_group
 
 ORDER BY
-  persistent_initial_gap DESC,
-  persistent_admitted_gap DESC,
   corporation;
