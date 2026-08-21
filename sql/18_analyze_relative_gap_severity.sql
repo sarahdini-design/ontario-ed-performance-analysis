@@ -1,5 +1,6 @@
 -- Purpose:
 -- Compare the relative severity of persistent performance gaps across
+-- (gap severity as a percentage of peer benchmark)
 -- the two ED indicators by expressing each gap as a percentage of the
 -- annual hospital peer-group median.
 
