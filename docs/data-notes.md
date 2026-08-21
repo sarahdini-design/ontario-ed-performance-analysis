@@ -431,7 +431,7 @@ The planned analytical join key is:
 
 `Corporation + Time frame`
 
-After integration, each corporation-year record can potentially contain both:
+After integration, each corporation-year record contains both:
 
 1. **90th-percentile physician initial assessment wait time**
 2. **90th-percentile total ED time for admitted patients**
@@ -455,4 +455,28 @@ Using both measures may help distinguish between:
 - Performance pressure later in the ED journey for admitted patients.
 
 This supports a more informative analysis than ranking hospital corporations using only a single ED wait-time measure.
+
+
+
+## Analysis Methodology
+
+### Peer Benchmark Selection
+
+The median was selected as the primary peer-group benchmark because it is less sensitive to unusually high or low wait-time values and better represents the performance of a typical corporation within the same hospital peer group.
+
+The mean was retained in the broader yearly trend analysis because it is still useful for understanding overall performance and the influence of extreme values.
+
+For peer benchmarking, the performance gap is calculated as:
+
+`Corporation P90 - Peer Group Median P90`
+
+A positive gap indicates a higher wait time than the peer-group median, while a negative gap indicates a lower wait time.
+
+The peer benchmark is calculated separately for each hospital peer group within each fiscal year.
+
+This benchmark is not volume-weighted; each hospital corporation contributes one observation regardless of patient volume.
+
+
+
+### Persistent Performance Gap Definition
 
