@@ -1,5 +1,6 @@
 -- Purpose:
 -- Examine the severity of persistent performance gaps among Ontario
+-- (gap severity in hours)
 -- hospital corporations with persistent gaps in both ED indicators.
 -- Calculates the average difference from the annual peer-group median
 -- for Physician Initial Assessment and admitted patient ED stay.
