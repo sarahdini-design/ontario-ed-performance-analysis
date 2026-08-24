@@ -69,3 +69,28 @@ The next step would be to combine these results with operational information suc
 For admitted patients, it would also be useful to understand whether the improvement after 2022–2023 occurred broadly across Ontario or was mainly driven by particular corporations or peer groups.
 
 Additional operational data, such as patient volumes, case mix, staffing, and inpatient bed availability, would be needed before making conclusions about what caused these patterns.
+
+
+## Question 3  
+### How much did 2024–2025 performance vary between hospital corporations when compared with their own peer group?
+
+### Finding  
+The 2024–2025 results showed a wide range of performance gaps across Ontario hospital corporations.
+
+For both indicators, some corporations had P90 wait times below their peer-group median, while others were well above it. The variation was especially noticeable for admitted-patient ED stay.
+
+One of the more extreme examples was Haliburton Highlands Health Services, where the admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**. This represented a gap of about **350.6% above the peer median**.
+
+### Insight  
+The provincial trend alone does not show how different the experience can be from one corporation to another.
+
+Even among hospitals in the same peer group, the distance from the peer median varied considerably. This made the peer comparison useful because it provided more context than simply comparing raw wait times across all corporations.
+
+It also showed why a single Ontario-wide number should not be used to describe the performance of every hospital organization.
+
+### Recommendation  
+Corporations with unusually large positive gaps should be reviewed more closely, especially when the gap also appears repeatedly over several years.
+
+However, a large gap should be treated as a signal for further investigation rather than a conclusion about why a corporation is performing differently.
+
+Patient volumes, case mix, hospital capacity, staffing, and other operational factors would be needed to understand what may be behind these differences.
