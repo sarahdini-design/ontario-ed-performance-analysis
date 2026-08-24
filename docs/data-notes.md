@@ -464,7 +464,7 @@ This supports a more informative analysis than ranking hospital corporations usi
 
 The median was selected as the primary peer-group benchmark because it is less sensitive to unusually high or low wait-time values and better represents the performance of a typical corporation within the same hospital peer group.
 
-The mean was retained in the broader yearly trend analysis because it is still useful for understanding overall performance and the influence of extreme values.
+The median was retained in the broader yearly trend analysis because it is still useful for understanding overall performance and the influence of extreme values.
 
 For peer benchmarking, the performance gap is calculated as:
 
@@ -479,4 +479,41 @@ This benchmark is not volume-weighted; each hospital corporation contributes one
 
 
 ### Persistent Performance Gap Definition
+
+A persistent performance gap was defined as a corporation having a P90 wait time above its annual hospital peer-group median in at least **4 of the 5 fiscal years**.
+
+For the admitted-patient ED stay indicator, all corporations had complete five-year data, so the classification was based on the full five-year period.
+
+For the initial physician assessment indicator, some P90 values were suppressed. A corporation was classified only when at least **4 years of usable data** were available. If fewer than 4 years were available, the result was marked as **Insufficient data**.
+
+This definition was created for this analysis to separate a repeated pattern from a one-year or short-term gap. It is an analytical rule used in this project and should not be interpreted as CIHI's official performance classification methodology.
+
+### Persistent Performance Gaps by Hospital Peer Group
+
+To check whether persistent performance gaps were concentrated in particular types of hospitals, corporations were grouped by `hospital_peer_group` and their five-year `performance_gap_pattern`.
+
+Because the analysis-ready table contains one row per corporation per fiscal year, each corporation was first reduced to a single corporation-level record before counting patterns by peer group. Percentages were calculated within each peer group rather than using raw counts alone, since the number of corporations differs between groups.
+
+#### Results
+
+- **Community–Large:** 14 of 25 corporations (56.0%) had a persistent gap in at least one indicator.
+- **Community–Medium:** 10 of 16 corporations (62.5%) had a persistent gap in at least one indicator.
+- **Teaching:** 6 of 12 corporations (50.0%) had a persistent gap in at least one indicator.
+- **Community–Small:** 6 of 11 corporations (54.5%) had a confirmed persistent gap in at least one indicator, but interpretation is less complete because some corporations had insufficient initial-assessment data due to suppressed CIHI values.
+
+The distribution of gap types also differed across peer groups. Teaching hospitals had the highest proportion of corporations with persistent gaps in both indicators: 3 of 12 (25.0%). In comparison, only 1 of 16 Community–Medium corporations (6.3%) showed persistent gaps in both indicators.
+
+#### Interpretation
+
+The results did not show a clear concentration of persistent gaps in a single hospital peer group. Community–Medium had the highest proportion of corporations with at least one persistent gap, but the difference from the other peer groups was not large enough to suggest that persistent ED performance gaps were limited to one hospital type.
+
+The mix of gap patterns appears more informative than the overall percentage alone. Different peer groups showed different combinations of initial-assessment and admitted-patient ED stay gaps.
+
+#### Data-quality note
+
+Community–Small results should be interpreted more cautiously because several corporations had suppressed physician initial-assessment P90 values. Suppressed values were kept as unavailable and were not estimated or imputed.
+
+#### Related SQL
+
+`23_analyze_persistent_gaps_by_peer_group.sql`
 
