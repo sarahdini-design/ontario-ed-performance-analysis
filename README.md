@@ -91,6 +91,31 @@ It also showed why a single Ontario-wide number should not be used to describe t
 ### Recommendation  
 Corporations with unusually large positive gaps should be reviewed more closely, especially when the gap also appears repeatedly over several years.
 
+
+## Question 4  
+### Does a corporation’s 2024–2025 performance tell the same story as its five-year pattern?
+
+### Finding  
+Not always.
+
+The 2024–2025 comparison gives a useful snapshot of where a corporation currently stands relative to its peer group, but that snapshot does not necessarily represent its longer-term pattern.
+
+A corporation can be above its peer median in the latest year without having shown the same gap consistently across the previous years. The reverse is also possible: a corporation may have a persistent five-year gap even if its most recent result has moved closer to, or below, the peer median.
+
+### Insight  
+This was an important distinction in the analysis.
+
+Looking only at 2024–2025 could make a recent change look like a long-standing performance issue. At the same time, looking only at the five-year classification could hide recent improvement or deterioration.
+
+Using both views together gives a better picture: the latest-year result shows where a corporation is now, while the persistent-gap classification adds the longer-term context.
+
+### Recommendation  
+Current-year performance and longer-term patterns should be reviewed together rather than used interchangeably.
+
+Corporations that have both a persistent gap and a large current-year gap may deserve more immediate attention. Corporations whose latest-year result differs from their historical pattern may also be worth reviewing to understand whether the change represents improvement, deterioration, or normal year-to-year variation.
+
+Additional years of data would help determine whether recent changes continue or are temporary.
+
 However, a large gap should be treated as a signal for further investigation rather than a conclusion about why a corporation is performing differently.
 
 Patient volumes, case mix, hospital capacity, staffing, and other operational factors would be needed to understand what may be behind these differences.
