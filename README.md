@@ -37,6 +37,35 @@ Looking at the two measures separately helped show that changes in ED performanc
 ### Recommendation  
 The continued increase in initial-assessment wait times would be worth examining more closely, especially because the increase appears across several years rather than in a single period.
 
+
+## Question 2  
+### Were the same hospital corporations consistently performing above their peer-group median over time?
+
+### Finding  
+The five-year results showed that performance gaps were not concentrated in just one part of the ED journey.
+
+Out of 64 Ontario hospital corporations:
+
+- **25** did not show a persistent gap in either measure.
+- **15** showed a persistent gap only in admitted-patient ED stay.
+- **11** showed a persistent gap only in initial physician assessment.
+- **9** showed persistent gaps in both measures.
+- **4** could not be fully classified for initial assessment because of suppressed values; one of these still showed a persistent gap in admitted ED stay.
+
+### Insight  
+The results suggest that there is no single pattern of ED performance across Ontario corporations.
+
+Some corporations consistently had longer waits before the initial physician assessment, while others were more often above their peer median later in the ED journey for admitted patients. A smaller group showed persistent gaps in both measures.
+
+This was important because a corporation that performs relatively well on one measure may still have a persistent gap on the other. Looking at only one indicator would have missed part of that difference.
+
+### Recommendation  
+Corporations with persistent gaps in both measures would be a reasonable starting point for deeper review because the pattern appears across more than one stage of the ED visit.
+
+Corporations with a gap in only one measure should be looked at separately rather than grouped together, since the area that may need further investigation is different.
+
+The next step would be to combine these results with operational information such as patient volumes, case mix, staffing, and inpatient capacity to better understand what may be contributing to the persistent gaps.
+
 For admitted patients, it would also be useful to understand whether the improvement after 2022–2023 occurred broadly across Ontario or was mainly driven by particular corporations or peer groups.
 
 Additional operational data, such as patient volumes, case mix, staffing, and inpatient bed availability, would be needed before making conclusions about what caused these patterns.
