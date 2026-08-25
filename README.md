@@ -118,7 +118,56 @@ Additional years of data would help determine whether recent changes continue or
 
 However, a large gap should be treated as a signal for further investigation rather than a conclusion about why a corporation is performing differently.
 
+
+## Question 5
+### Were persistent performance gaps concentrated in particular hospital peer groups?
+
+### Finding
+Persistent performance gaps appeared across all four hospital peer groups rather than being concentrated in one type of hospital.
+
+Community–Medium had the highest share of corporations with a confirmed persistent gap in at least one indicator, with **10 of 16 corporations (62.5%)**. This was followed by Community–Large at **14 of 25 (56.0%)** and Teaching hospitals at **6 of 12 (50.0%)**.
+
+Community–Small hospitals also showed persistent gaps, although several corporations in this group had suppressed initial-assessment values, making the comparison less complete.
+
+The type of gap also varied by peer group. For example, **3 of 12 Teaching corporations (25.0%)** had persistent gaps in both indicators, compared with **1 of 16 Community–Medium corporations (6.3%)**.
+
+### Insight
+There was no single hospital peer group where persistent ED performance gaps were overwhelmingly concentrated.
+
+Although Community–Medium had the highest proportion, persistent gaps were still common across the other peer groups. What stood out more was that the type of gap differed between groups. Some had more corporations with a gap in only one part of the ED journey, while Teaching hospitals had a relatively larger share with persistent gaps in both indicators.
+
+### Recommendation
+Peer group provides useful context when comparing hospital corporations, but it should not be used on its own to explain persistent performance gaps.
+
+A useful next step would be to examine corporations with persistent gaps within each peer group alongside operational information such as patient volume, case mix, staffing, and inpatient capacity.
+
+For Community–Small hospitals, suppressed initial-assessment values should also be considered before making broader comparisons with the other peer groups.
+
 Patient volumes, case mix, hospital capacity, staffing, and other operational factors would be needed to understand what may be behind these differences.
 
+
+## Question 6
+### Which hospital corporations stand out for further investigation when long-term and current performance are considered together?
+
+### Finding
+Nine hospital corporations showed persistent gaps in both ED indicators over the five-year period.
+
+When I compared those corporations with their 2024–2025 peer-group benchmarks, **7 of the 9 were still above the peer median in both indicators**.
+
+Two corporations showed a more mixed current-year pattern. Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health remained well above its peer median for initial assessment but was below the peer median for admitted ED stay.
+
+Some of the largest current gaps among the persistent-gap group were seen at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
+
+### Insight
+For most corporations with a persistent gap in both indicators, the longer-term pattern was still visible in the most recent year.
+
+This makes the 7 corporations that remained above their peer median in both measures particularly useful starting points for further investigation. At the same time, the results for Hamilton Health Sciences and Arnprior Regional Health show why the latest year should not simply be treated as a continuation of the historical pattern. Performance can change differently across the two stages of the ED journey.
+
+### Recommendation
+Corporations that combine a five-year persistent gap with above-peer performance in both indicators in 2024–2025 would be reasonable priorities for a closer operational review.
+
+The purpose of that review would be to understand what is contributing to the pattern, not to assume a cause from the wait-time data alone. Patient volume, case mix, staffing, inpatient capacity, and other operational measures would be needed before making conclusions about why these corporations differ from their peers.
+
+Corporations whose latest-year results have moved away from their historical pattern should also be followed over additional years to see whether the change continues.
 
 
