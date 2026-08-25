@@ -171,3 +171,58 @@ The purpose of that review would be to understand what is contributing to the pa
 Corporations whose latest-year results have moved away from their historical pattern should also be followed over additional years to see whether the change continues.
 
 
+## Limitations
+
+This analysis is based on publicly reported CIHI data and is intended to identify patterns in ED wait-time performance, not to explain why those patterns occurred.
+
+A few limitations are important when interpreting the results:
+
+- The analysis uses corporation-level P90 wait times. It does not include patient-level records, so differences in patient acuity, case mix, or individual patient experience could not be examined.
+
+- The peer-group benchmark is based on the median corporation within each hospital peer group. It is not volume-weighted, so a smaller and a larger corporation each contribute equally to the benchmark.
+
+- Some physician initial-assessment values were suppressed by CIHI. These values were kept as unavailable rather than estimated, which means that a small number of corporations could not be fully classified for persistent initial-assessment gaps.
+
+- The datasets do not include operational factors such as staffing levels, ED visit volumes, inpatient bed availability, or local capacity constraints. For that reason, the analysis cannot determine what caused a corporation to perform above or below its peer benchmark.
+
+- The persistent-gap definition used in this project — being above the annual peer-group median in at least 4 of 5 years — is an analytical rule created for this analysis. It is not CIHI's official performance classification.
+
+- The study covers five fiscal years, from 2020–2021 to 2024–2025. Recent changes may therefore need additional years of data before they can be considered a sustained improvement or deterioration.
+
+
+## Final Recommendations
+
+Based on the patterns identified in this analysis, a few areas would be worth prioritizing for further review:
+
+- **Focus first on corporations with persistent gaps in both indicators.**  
+  These organizations showed repeated above-peer wait times across both initial physician assessment and admitted-patient ED stay, making them the clearest candidates for deeper operational investigation.
+
+- **Consider current performance together with the five-year pattern.**  
+  A single year can look better or worse than the longer-term trend. Corporations that remain above their peer median in 2024–2025 after showing persistent gaps over several years deserve particular attention, while recent improvements should be followed to see whether they continue.
+
+- **Investigate the two stages of the ED journey separately.**  
+  Some corporations showed persistent gaps only in initial assessment, while others showed gaps mainly in admitted-patient ED stay. These patterns should not automatically be treated as the same type of performance issue.
+
+- **Keep peer-group context in the comparison.**  
+  Persistent gaps were present across all hospital peer groups, so hospital type alone does not explain the differences. Comparing corporations with similar peers remains more informative than using a single Ontario-wide benchmark.
+
+- **Combine wait-time results with operational data before making decisions.**  
+  Patient volumes, case mix, staffing, inpatient bed availability, and other capacity measures would help determine what may be contributing to the gaps identified here.
+
+These recommendations are intended to identify where further investigation may be useful. The wait-time data alone is not enough to determine the underlying cause of a corporation's performance.
+
+
+
+## Conclusion
+
+This analysis showed that Ontario ED performance changed over the five-year period, but the pattern was not the same across the two stages of the patient journey.
+
+Initial physician assessment waits increased fairly steadily, while admitted-patient ED stay rose more sharply and then showed some improvement after 2022–2023. Looking at both indicators together also showed that persistent performance gaps were not limited to one type of hospital or one part of the ED visit.
+
+The peer-group comparison helped add context to the raw wait times, and the five-year persistent-gap view made it possible to separate longer-term patterns from a single-year result.
+
+The main value of this analysis is not to label hospitals as good or bad, but to identify where performance gaps appear repeatedly and where a closer operational review may be useful.
+
+Further analysis using patient volume, case mix, staffing, inpatient capacity, and other operational data would be needed to understand what is driving the differences observed in this project.
+
+
