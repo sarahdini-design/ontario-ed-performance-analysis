@@ -517,3 +517,26 @@ Community–Small results should be interpreted more cautiously because several 
 
 `23_analyze_persistent_gaps_by_peer_group.sql`
 
+
+### Persistent Gaps and Current-Year Performance
+
+To see whether long-term performance gaps were still visible in the most recent year, I compared the corporations classified as having a **persistent gap in both indicators** with their 2024–2025 peer-group benchmarks.
+
+Nine corporations had been classified as having persistent gaps in both initial physician assessment and admitted-patient ED stay over the five-year period.
+
+In 2024–2025:
+
+- **7 of the 9 corporations** were still above their peer-group median in both indicators.
+- **Hamilton Health Sciences** was slightly below its peer median for initial assessment, but remained above the peer median for admitted-patient ED stay.
+- **Arnprior Regional Health** remained above its peer median for initial assessment, but was below the peer median for admitted-patient ED stay.
+- None of the nine corporations were at or below their peer median in both indicators in 2024–2025.
+
+This comparison was used to distinguish between a historical persistent gap and a gap that was also still visible in the latest year.
+
+Corporations that showed both a five-year persistent gap and an above-peer result in both indicators in 2024–2025 were treated as useful candidates for further investigation. This was not intended as a ranking of hospital performance or as evidence of the causes behind the gaps.
+
+Because lower P90 wait times indicate better relative performance, a positive gap means that the corporation's P90 wait time was higher than the annual median of its hospital peer group.
+
+#### Related SQL
+
+`sql/24_identify_current_persistent_priorities.sql`
