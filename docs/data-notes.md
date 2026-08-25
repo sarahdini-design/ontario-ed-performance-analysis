@@ -518,6 +518,7 @@ Community–Small results should be interpreted more cautiously because several 
 `23_analyze_persistent_gaps_by_peer_group.sql`
 
 
+
 ### Persistent Gaps and Current-Year Performance
 
 To see whether long-term performance gaps were still visible in the most recent year, I compared the corporations classified as having a **persistent gap in both indicators** with their 2024–2025 peer-group benchmarks.
