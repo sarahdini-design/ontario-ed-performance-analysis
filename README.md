@@ -11,6 +11,11 @@ Emergency department performance can look very different depending on which part
 
 I wanted to see how these measures changed over time, how hospital corporations compared with similar hospitals, and whether some performance gaps appeared repeatedly across several years.
 
+## Interactive Dashboard
+
+[View the interactive Tableau dashboard]((https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+
+
 ## Main Analytical Question
 
 Which Ontario hospital corporations show persistent emergency department performance gaps, and do those gaps appear mainly before initial physician assessment, later in the ED stay for admitted patients, or in both stages?
