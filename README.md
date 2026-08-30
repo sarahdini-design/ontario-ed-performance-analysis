@@ -29,23 +29,29 @@ For this case study, I used the published indicator values to build a separate l
 The peer-median benchmark and persistent-gap definition used here are analytical methods created for this project and are separate from CIHI's official performance comparison methodology.
 
 
-## Question 1  
+## Question 1
+
 ### How did emergency department wait times change across Ontario hospital corporations over the five-year period?
 
-### Finding  
+### Finding
+
 At the corporation level, the median P90 wait for initial physician assessment increased from **2.5 hours in 2020–2021 to 4.3 hours in 2024–2025**.
 
 For admitted patients, the pattern was different. The median P90 ED stay increased from **23.0 hours in 2020–2021 to 35.6 hours in 2022–2023**, then declined somewhat over the next two years to about **33.3 hours in 2024–2025**.
 
-### Insight  
-Both measures ended the five-year period higher than where they started, but the patterns were not the same.
+### Insight
 
-Initial assessment waits increased fairly steadily across the period. Admitted-patient ED stay rose much more sharply through 2022–2023 and then showed some improvement afterward.
+Both measures ended the five-year period higher than where they started, but they followed different paths.
 
-Looking at the two measures separately helped show that changes in ED performance were not happening in exactly the same way at different stages of the patient journey.
+Initial assessment waits increased fairly steadily. Admitted-patient ED stay rose much more sharply through 2022–2023, then showed some improvement afterward.
 
-### Recommendation  
-The continued increase in initial-assessment wait times would be worth examining more closely, especially because the increase appears across several years rather than in a single period.
+Seeing the two measures side by side made it clear that the pattern was not the same across different stages of the ED visit.
+
+### Recommendation
+
+The continued increase in initial-assessment wait times is worth looking at more closely because it appears across several years rather than in a single period.
+
+The improvement in admitted-patient ED stay after 2022–2023 is also worth following to see whether it continues in future years.
 
 
 ## Question 2  
