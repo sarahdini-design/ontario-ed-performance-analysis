@@ -13,7 +13,7 @@ I wanted to see how these measures changed over time, how hospital corporations 
 
 ## Interactive Dashboard
 
-[View the interactive Tableau dashboard]((https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View the interactive Tableau dashboard (https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 ## Main Analytical Question
