@@ -110,7 +110,7 @@ For both indicators, some corporations had P90 wait times below their peer media
 
 One of the clearest examples was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**, a gap of about **350.6%**.
 
-<a href="(https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">
+<a href="https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
   <img
     src="images/peer-benchmark-gaps-2024-2025.png"
     alt="2024–2025 initial and admitted peer gaps"
@@ -119,7 +119,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
 </a>
 
 *2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.*
-[View this chart interactively in Tableau Public]((https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
+[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
 
