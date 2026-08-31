@@ -147,6 +147,11 @@ The latest-year result gives a useful snapshot, but it does not always match the
 Among the nine corporations with persistent gaps in both indicators, seven were still above their peer median in both measures in 2024–2025. Two showed a mixed latest-year result.
 
 Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay moved below it.
+![Five-year corporation performance compared with peer medians](images/arnprior-five-year-peer-comparison.png)
+
+*Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
+
+[Explore corporation-level trends in Tableau Public]([YOUR_CORPORATION_DETAIL_LINK](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
 
 
 
