@@ -134,6 +134,7 @@ This also showed why one provincial number cannot describe the performance of ev
 Large positive gaps are worth flagging for closer review, especially when the same corporation also shows a persistent gap over several years.
 These results should be treated as a starting point for further investigation, not as a ranking of hospital performance.
 
+
 ## Question 4
 
 ### Does a corporation's 2024–2025 performance tell the same story as its five-year pattern?
@@ -151,8 +152,7 @@ Hamilton Health Sciences was slightly below its peer median for initial assessme
 
 *Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
 
-[Explore corporation-level trends in Tableau Public]([YOUR_CORPORATION_DETAIL_LINK](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link))
-
+[Explore corporation-level trends in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### Insight
