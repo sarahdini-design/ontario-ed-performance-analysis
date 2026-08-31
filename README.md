@@ -186,7 +186,7 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
 <img
   src="images/persistent-gaps-by-peer-group.png"
   alt="Persistent performance gap patterns by hospital peer group"
-  width="1000"
+  width="1200"
 />
 
 *Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.*
