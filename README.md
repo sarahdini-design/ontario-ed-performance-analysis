@@ -98,25 +98,35 @@ Corporations with a gap in only one measure should be reviewed separately, since
 To understand what may be contributing to these gaps, the wait-time results would need to be combined with operational information such as patient volumes, case mix, staffing, and inpatient capacity.
 
 
-## Question 3  
+## Question 3
+
 ### How much did 2024–2025 performance vary between hospital corporations when compared with their own peer group?
 
-### Finding  
-The 2024–2025 results showed a wide range of performance gaps across Ontario hospital corporations.
+### Finding
 
-For both indicators, some corporations had P90 wait times below their peer-group median, while others were well above it. The variation was especially noticeable for admitted-patient ED stay.
+The 2024–2025 results showed large differences between Ontario hospital corporations relative to their peer-group median.
 
-One of the more extreme examples was Haliburton Highlands Health Services, where the admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**. This represented a gap of about **350.6% above the peer median**.
+For both indicators, some corporations had P90 wait times below their peer median, while others were well above it. The spread was especially noticeable for admitted-patient ED stay.
 
-### Insight  
-The provincial trend alone does not show how different the experience can be from one corporation to another.
+One of the clearest examples was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**, a gap of about **350.6%**.
 
-Even among hospitals in the same peer group, the distance from the peer median varied considerably. This made the peer comparison useful because it provided more context than simply comparing raw wait times across all corporations.
+![2024–2025 gaps from peer-group benchmarks](images/peer-benchmark-gaps-2024-2025.png)
 
-It also showed why a single Ontario-wide number should not be used to describe the performance of every hospital organization.
+*2024–2025 P90 gaps relative to each corporation's hospital peer-group median.*
 
-### Recommendation  
-Corporations with unusually large positive gaps should be reviewed more closely, especially when the gap also appears repeatedly over several years.
+### Insight
+
+The Ontario-wide trend does not show how much performance varies from one corporation to another.
+
+Even within the same hospital peer group, some corporations were much closer to the median than others. Looking at the gap from the peer median gave more context than comparing raw wait times alone.
+
+This also showed why one provincial number cannot describe the performance of every hospital corporation.
+
+### Recommendation
+
+Large positive gaps are worth flagging for closer review, especially when the same corporation also shows a persistent gap over several years.
+
+These results should be treated as a starting point for further investigation rather than as a ranking of hospital performance.
 
 
 ## Question 4  
