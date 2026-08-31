@@ -125,9 +125,7 @@ This also showed why one provincial number cannot describe the performance of ev
 ### Recommendation
 
 Large positive gaps are worth flagging for closer review, especially when the same corporation also shows a persistent gap over several years.
-
-These results should be treated as a starting point for further investigation rather than as a ranking of hospital performance.
-
+These results should be treated as a starting point for further investigation, not as a ranking of hospital performance.
 
 ## Question 4  
 ### Does a corporation’s 2024–2025 performance tell the same story as its five-year pattern?
