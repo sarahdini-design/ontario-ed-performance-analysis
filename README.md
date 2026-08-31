@@ -113,7 +113,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
 <img
   src="images/peer-benchmark-gaps-2024-2025.png"
   alt="2024–2025 initial and admitted peer gaps"
-  width="650"
+  width="600"
 />
 
 *2024–2025 P90 gaps relative to each corporation's hospital peer-group median.*
