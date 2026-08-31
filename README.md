@@ -63,37 +63,39 @@ The continued increase in initial-assessment wait times is worth looking at more
 The improvement in admitted-patient ED stay after 2022–2023 is also worth following to see whether it continues in future years.
 
 
-## Question 2  
-### Were the same hospital corporations consistently performing above their peer-group median over time?
+## Question 2
 
-### Finding  
-The five-year results showed that performance gaps were not concentrated in just one part of the ED journey.
+### Did the same hospital corporations remain above their peer-group median over time?
 
-Out of 64 Ontario hospital corporations:
+### Finding
+
+The five-year classification showed several different patterns across the 64 Ontario hospital corporations:
 
 - **25** did not show a persistent gap in either measure.
 - **15** showed a persistent gap only in admitted-patient ED stay.
 - **11** showed a persistent gap only in initial physician assessment.
 - **9** showed persistent gaps in both measures.
-- **4** could not be fully classified for initial assessment because of suppressed values; one of these still showed a persistent gap in admitted ED stay.
+- **4** could not be fully classified for initial assessment because of suppressed values; among them, **1** still showed a persistent gap in admitted-patient ED stay.
 
-### Insight  
-The results suggest that there is no single pattern of ED performance across Ontario corporations.
+![Persistent performance gap patterns](images/persistent-gap-patterns.png)
 
-Some corporations consistently had longer waits before the initial physician assessment, while others were more often above their peer median later in the ED journey for admitted patients. A smaller group showed persistent gaps in both measures.
+*Five-year persistent-gap patterns across 64 Ontario hospital corporations.*
 
-This was important because a corporation that performs relatively well on one measure may still have a persistent gap on the other. Looking at only one indicator would have missed part of that difference.
+### Insight
 
-### Recommendation  
-Corporations with persistent gaps in both measures would be a reasonable starting point for deeper review because the pattern appears across more than one stage of the ED visit.
+Persistent gaps did not follow one common pattern.
 
-Corporations with a gap in only one measure should be looked at separately rather than grouped together, since the area that may need further investigation is different.
+Some corporations were repeatedly above their peer median before initial physician assessment, while others showed the gap mainly in admitted-patient ED stay. Nine corporations showed persistent gaps in both measures.
 
-The next step would be to combine these results with operational information such as patient volumes, case mix, staffing, and inpatient capacity to better understand what may be contributing to the persistent gaps.
+This means that looking at only one ED indicator would not have shown the full picture for every corporation.
 
-For admitted patients, it would also be useful to understand whether the improvement after 2022–2023 occurred broadly across Ontario or was mainly driven by particular corporations or peer groups.
+### Recommendation
 
-Additional operational data, such as patient volumes, case mix, staffing, and inpatient bed availability, would be needed before making conclusions about what caused these patterns.
+Corporations with persistent gaps in both measures are a useful starting point for deeper review because the pattern appears at more than one stage of the ED visit.
+
+Corporations with a gap in only one measure should be reviewed separately, since the part of the patient journey that stands out is different.
+
+To understand what may be contributing to these gaps, the wait-time results would need to be combined with operational information such as patient volumes, case mix, staffing, and inpatient capacity.
 
 
 ## Question 3  
