@@ -78,7 +78,6 @@ The five-year classification showed several different patterns across the 64 Ont
 - **4** could not be fully classified for initial assessment because of suppressed values; among them, **1** still showed a persistent gap in admitted-patient ED stay.
 
 ![Persistent performance gap patterns](images/persistent-gap-patterns.png)
-
 *Five-year persistent-gap patterns across 64 Ontario hospital corporations.*
 
 ### Insight
@@ -118,8 +117,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
   />
 </a>
 
-*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.*
-[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.*[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
 
@@ -151,7 +149,6 @@ Hamilton Health Sciences was slightly below its peer median for initial assessme
 ![Five-year corporation performance compared with peer medians](images/arnprior-five-year-peer-comparison.png)
 
 *Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
-
 [Explore corporation-level trends in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
