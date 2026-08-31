@@ -110,7 +110,7 @@ For both indicators, some corporations had P90 wait times below their peer media
 
 One of the clearest examples was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**, a gap of about **350.6%**.
 
-![2024–2025 gaps from peer-group benchmarks](images/peer-benchmark-gaps-2024-2025.png)
+[![2024–2025 gaps from peer-group benchmarks](images/peer-benchmark-gaps-2024-2025.png)](images/peer-benchmark-gaps-2024-2025.png)
 
 *2024–2025 P90 gaps relative to each corporation's hospital peer-group median.*
 
