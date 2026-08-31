@@ -134,29 +134,35 @@ This also showed why one provincial number cannot describe the performance of ev
 Large positive gaps are worth flagging for closer review, especially when the same corporation also shows a persistent gap over several years.
 These results should be treated as a starting point for further investigation, not as a ranking of hospital performance.
 
-## Question 4  
-### Does a corporation’s 2024–2025 performance tell the same story as its five-year pattern?
+## Question 4
 
-### Finding  
+### Does a corporation's 2024–2025 performance tell the same story as its five-year pattern?
+
+### Finding
+
 Not always.
 
-The 2024–2025 comparison gives a useful snapshot of where a corporation currently stands relative to its peer group, but that snapshot does not necessarily represent its longer-term pattern.
+The latest-year result gives a useful snapshot, but it does not always match the longer-term pattern.
 
-A corporation can be above its peer median in the latest year without having shown the same gap consistently across the previous years. The reverse is also possible: a corporation may have a persistent five-year gap even if its most recent result has moved closer to, or below, the peer median.
+Among the nine corporations with persistent gaps in both indicators, seven were still above their peer median in both measures in 2024–2025. Two showed a mixed latest-year result.
 
-### Insight  
-This was an important distinction in the analysis.
+Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay moved below it.
 
-Looking only at 2024–2025 could make a recent change look like a long-standing performance issue. At the same time, looking only at the five-year classification could hide recent improvement or deterioration.
 
-Using both views together gives a better picture: the latest-year result shows where a corporation is now, while the persistent-gap classification adds the longer-term context.
 
-### Recommendation  
-Current-year performance and longer-term patterns should be reviewed together rather than used interchangeably.
+### Insight
 
-Corporations that have both a persistent gap and a large current-year gap may deserve more immediate attention. Corporations whose latest-year result differs from their historical pattern may also be worth reviewing to understand whether the change represents improvement, deterioration, or normal year-to-year variation.
+A single year can tell a different story from the five-year pattern.
 
-Additional years of data would help determine whether recent changes continue or are temporary.
+Looking only at 2024–2025 could make a recent change look like a long-standing issue. Looking only at the five-year classification could also hide a recent improvement or deterioration.
+
+Using both views together gives more context: the latest year shows where a corporation stands now, while the persistent-gap classification shows whether that pattern has been repeated over time.
+
+### Recommendation
+
+Current-year results and longer-term patterns should be reviewed together.
+
+When the latest-year result differs from the historical pattern, additional years of data would help show whether the change is continuing or is only temporary.
 
 However, a large gap should be treated as a signal for further investigation rather than a conclusion about why a corporation is performing differently.
 
