@@ -114,7 +114,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
   <img
     src="images/peer-benchmark-gaps-2024-2025.png"
     alt="2024–2025 initial and admitted peer gaps"
-    width="500"
+    width="400"
   />
 </a>
 
