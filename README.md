@@ -244,21 +244,21 @@ Corporations whose latest-year results have moved away from their historical pat
 
 ## Limitations
 
-This analysis is based on publicly reported CIHI data and is intended to identify patterns in ED wait-time performance, not to explain why those patterns occurred.
+This analysis is based on publicly reported CIHI data, so it can show where performance gaps appear, but it cannot explain why they happen.
 
-A few limitations are important when interpreting the results:
+A few limitations are important to keep in mind:
 
-- The analysis uses corporation-level P90 wait times. It does not include patient-level records, so differences in patient acuity, case mix, or individual patient experience could not be examined.
+- The analysis uses corporation-level P90 wait times rather than patient-level data. This means I could not look at differences in patient acuity, case mix, or individual patient experience.
 
-- The peer-group benchmark is based on the median corporation within each hospital peer group. It is not volume-weighted, so a smaller and a larger corporation each contribute equally to the benchmark.
+- The peer benchmark is based on the median corporation within each hospital peer group. It is not weighted by patient volume, so a small corporation and a large corporation contribute equally to the benchmark.
 
-- Some physician initial-assessment values were suppressed by CIHI. These values were kept as unavailable rather than estimated, which means that a small number of corporations could not be fully classified for persistent initial-assessment gaps.
+- Some physician initial-assessment values were suppressed by CIHI. I kept these values as missing rather than estimating them, which means a small number of corporations could not be fully classified for persistent initial-assessment gaps.
 
-- The datasets do not include operational factors such as staffing levels, ED visit volumes, inpatient bed availability, or local capacity constraints. For that reason, the analysis cannot determine what caused a corporation to perform above or below its peer benchmark.
+- The datasets do not include operational information such as staffing, ED visit volumes, inpatient bed availability, or local capacity. Because of this, the analysis can identify patterns but cannot determine what caused them.
 
-- The persistent-gap definition used in this project — being above the annual peer-group median in at least 4 of 5 years — is an analytical rule created for this analysis. It is not CIHI's official performance classification.
+- The persistent-gap rule used in this project — being above the annual peer-group median in at least 4 of 5 years — was created for this analysis. It is separate from CIHI's official performance-comparison methodology.
 
-- The study covers five fiscal years, from 2020–2021 to 2024–2025. Recent changes may therefore need additional years of data before they can be considered a sustained improvement or deterioration.
+- The study covers five fiscal years, from 2020–2021 to 2024–2025. More years of data would be needed to know whether recent changes are temporary or part of a longer-term shift.
 
 
 ## Final Recommendations
