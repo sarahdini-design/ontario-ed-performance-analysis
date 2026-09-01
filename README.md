@@ -13,7 +13,7 @@ I wanted to see how these measures changed over time, how hospital corporations 
 
 ## Interactive Dashboard
 
-[View the interactive Tableau dashboard](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[View the interactive Tableau dashboard.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ## Main Analytical Question
@@ -119,7 +119,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
   >
 </a>
 
-*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.* [View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### Insight
@@ -154,7 +154,7 @@ Hamilton Health Sciences was slightly below its peer median for initial assessme
   </p>
 
 *Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
-[Explore corporation-level trends in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[Explore corporation-level trends in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ### Insight
@@ -192,7 +192,7 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
   width="1700"
 />
 
-*Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.* [View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
 There was no single hospital peer group where persistent ED performance gaps were overwhelmingly concentrated.
@@ -227,7 +227,7 @@ Some of the largest current gaps within this persistent-gap group were seen at C
   width="400"/>
   </a>
 
-*2024–2025 peer-group gaps for the nine hospital corporations with persistent gaps in both ED indicators over the five-year period.* [Explore this view interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CurrentPerformanceofPersistent-GapCorporations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*2024–2025 peer-group gaps for the nine hospital corporations with persistent gaps in both ED indicators over the five-year period.* [Explore this view interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CurrentPerformanceofPersistent-GapCorporations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
 
