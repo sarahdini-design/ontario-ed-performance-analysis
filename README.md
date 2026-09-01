@@ -115,7 +115,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
     alt="2024–2025 initial and admitted peer gaps"
     width="400"
   >
-</a>
+  </a>
 *2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
