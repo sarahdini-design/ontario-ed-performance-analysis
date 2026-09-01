@@ -114,7 +114,7 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
     src="images/peer-benchmark-gaps-2024-2025.png"
     alt="2024–2025 initial and admitted peer gaps"
     width="400"
-  />
+/>
 </a>
 *2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.*[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -185,6 +185,7 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
   alt="Persistent performance gap patterns by hospital peer group"
   width="1700"
 />
+
 *Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.*[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
