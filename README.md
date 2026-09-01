@@ -45,7 +45,6 @@ At the corporation level, the median P90 wait for initial physician assessment i
 For admitted patients, the pattern was different. The median P90 ED stay increased from **23.0 hours in 2020–2021 to 35.6 hours in 2022–2023**, then declined somewhat over the next two years to about **33.3 hours in 2024–2025**.
 
 ![Five-year trend in Ontario ED wait times](images/five-year-ed-trends.png)
-
 *Five-year median P90 trends for initial physician assessment and admitted-patient ED stay.*
 
 
@@ -79,7 +78,6 @@ The five-year classification showed several different patterns across the 64 Ont
 - **4** could not be fully classified for initial assessment because of suppressed values; among them, **1** still showed a persistent gap in admitted-patient ED stay.
 
 ![Persistent performance gap patterns](images/persistent-gap-patterns.png)
-
 *Five-year persistent-gap patterns across 64 Ontario hospital corporations.*
 
 ### Insight
@@ -118,7 +116,6 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
     width="400"
   >
 </a>
-
 *2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -150,9 +147,8 @@ Among the nine corporations with persistent gaps in both indicators, seven were 
 
 Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay moved below it.
 
-  <img src="images/arnprior-five-year-peer-comparison.png" alt="Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay." width="700">
-  </p>
-
+<img src="images/arnprior-five-year-peer-comparison.png" alt="Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay." width="700">
+</p>
 *Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
 [Explore corporation-level trends in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
@@ -191,7 +187,6 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
   alt="Persistent performance gap patterns by hospital peer group"
   width="1700"
 />
-
 *Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
@@ -225,8 +220,7 @@ Some of the largest current gaps within this persistent-gap group were seen at C
   src="images/persistent-gap-current-position.png"
   alt="2024–2025 peer-group gaps for corporations with persistent gaps in both ED indicators"
   width="400"/>
-  </a>
-
+</a>
 *2024–2025 peer-group gaps for the nine hospital corporations with persistent gaps in both ED indicators over the five-year period.* [Explore this view interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CurrentPerformanceofPersistent-GapCorporations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
