@@ -109,14 +109,16 @@ For both indicators, some corporations had P90 wait times below their peer media
 
 One of the clearest examples was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**, a gap of about **350.6%**.
 
-<a href="https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link">
+<a href="YOUR_TABLEAU_LINK">
   <img
     src="images/peer-benchmark-gaps-2024-2025.png"
     alt="2024–2025 initial and admitted peer gaps"
     width="400"
-/>
+  >
 </a>
-*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.*[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
+*2024–2025 corporation-level gaps relative to hospital peer-group medians. Each point represents one Ontario hospital corporation.* [View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+
 
 ### Insight
 
@@ -147,7 +149,7 @@ Among the nine corporations with persistent gaps in both indicators, seven were 
 Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay moved below it.
 
   <img src="images/arnprior-five-year-peer-comparison.png" alt="Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay." width="700"></p>
-*Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay.*
+*Five-year P90 trends for Arnprior Regional Health compared with annual peer-group medians for initial assessment and admitted-patient ED stay. *
 [Explore corporation-level trends in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CorporationPerformanceDetail?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
@@ -186,7 +188,7 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
   width="1700"
 />
 
-*Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.*[View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+*Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.* [View this chart interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
 There was no single hospital peer group where persistent ED performance gaps were overwhelmingly concentrated.
@@ -220,6 +222,7 @@ Some of the largest current gaps within this persistent-gap group were seen at C
   alt="2024–2025 peer-group gaps for corporations with persistent gaps in both ED indicators"
   width="400"/>
   </a>
+
 *2024–2025 peer-group gaps for the nine hospital corporations with persistent gaps in both ED indicators over the five-year period.* [Explore this view interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CurrentPerformanceofPersistent-GapCorporations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
