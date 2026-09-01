@@ -208,21 +208,6 @@ Important fields for the planned analysis include:
 - 90th percentile: Performance comparison
 - 90th percentile: Performance trend
 
-### Analytical Measures
-
-The main measure for this indicator is the **90th-percentile total ED time for admitted patients**, reported in hours.
-
-The analysis also uses the following derived measures:
-
-- Change over time
-- Annual hospital peer-group median
-- Gap from the peer-group median, measured in hours and percentage
-- Five-year persistent-gap classification
-- Cross-indicator performance-gap pattern
-
-Lower P90 wait times indicate better relative performance.
-
-
 
 ## Dataset 2 — Emergency Department Wait Time for Physician Initial Assessment
 
@@ -443,9 +428,6 @@ Suppressed values in Dataset 2 will remain missing/unavailable after the dataset
 
 The two indicators represent different stages of the emergency department patient journey.
 
-
-
-
 **Dataset 2** represents the period from arrival/triage or registration to initial physician assessment.
 
 **Dataset 1** represents the broader ED stay for patients who are ultimately admitted, from registration/triage until they leave the ED after admission.
@@ -458,8 +440,23 @@ Using both measures may help distinguish between:
 This supports a more informative analysis than ranking hospital corporations using only a single ED wait-time measure.
 
 
-
 ## Analysis Methodology
+
+
+### Analytical Measures
+
+The main measure for this indicator is the **90th-percentile total ED time for admitted patients**, reported in hours.
+
+The analysis also uses the following derived measures:
+
+- Change over time
+- Annual hospital peer-group median
+- Gap from the peer-group median, measured in hours and percentage
+- Five-year persistent-gap classification
+- Cross-indicator performance-gap pattern
+
+Lower P90 wait times indicate better relative performance.
+
 
 ### Peer Benchmark Selection
 
@@ -476,7 +473,6 @@ A positive gap indicates a higher wait time than the peer-group median, while a 
 The peer benchmark is calculated separately for each hospital peer group within each fiscal year.
 
 This benchmark is not volume-weighted; each hospital corporation contributes one observation regardless of patient volume.
-
 
 
 ### Persistent Performance Gap Definition
@@ -517,7 +513,6 @@ Community–Small results should be interpreted more cautiously because several 
 #### Related SQL
 
 `23_analyze_persistent_gaps_by_peer_group.sql`
-
 
 
 ### Persistent Gaps and Current-Year Performance
