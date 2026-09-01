@@ -209,6 +209,7 @@ Important fields for the planned analysis include:
 - 90th percentile: Performance trend
 
 
+
 ## Dataset 2 — Emergency Department Wait Time for Physician Initial Assessment
 
 **Analytical dataset name:** Ontario Corporation-Level ED Physician Initial Assessment Data  
@@ -401,8 +402,6 @@ For hospitals, CIHI performance comparison is relative to the hospital's **peer 
 - Trend classifications should therefore be interpreted cautiously for
   organizations with incomplete longitudinal data.
 
-
-
 ### Planned Data Integration
 
 Datasets 1 and 2 share the same analytical structure:
@@ -424,7 +423,9 @@ After integration, each corporation-year record contains both:
 
 Suppressed values in Dataset 2 will remain missing/unavailable after the datasets are joined and will not be replaced with zero.
 
-### Analytical Purpose of Using Both Indicators
+
+
+## Analytical Purpose of Using Both Indicators
 
 The two indicators represent different stages of the emergency department patient journey.
 
