@@ -45,6 +45,7 @@ At the corporation level, the median P90 wait for initial physician assessment i
 For admitted patients, the pattern was different. The median P90 ED stay increased from **23.0 hours in 2020–2021 to 35.6 hours in 2022–2023**, then declined somewhat over the next two years to about **33.3 hours in 2024–2025**.
 
 ![Five-year trend in Ontario ED wait times](images/five-year-ed-trends.png)
+
 *Five-year median P90 trends for initial physician assessment and admitted-patient ED stay.*
 
 
@@ -78,6 +79,7 @@ The five-year classification showed several different patterns across the 64 Ont
 - **4** could not be fully classified for initial assessment because of suppressed values; among them, **1** still showed a persistent gap in admitted-patient ED stay.
 
 ![Persistent performance gap patterns](images/persistent-gap-patterns.png)
+
 *Five-year persistent-gap patterns across 64 Ontario hospital corporations.*
 
 ### Insight
