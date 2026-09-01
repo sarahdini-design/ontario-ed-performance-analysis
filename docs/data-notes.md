@@ -208,20 +208,21 @@ Important fields for the planned analysis include:
 - 90th percentile: Performance comparison
 - 90th percentile: Performance trend
 
-### Potential KPI
+### Analytical Measures
 
-**90th-percentile total ED time for admitted patients (hours)**
+The main measure for this indicator is the **90th-percentile total ED time for admitted patients**, reported in hours.
 
-Additional derived metrics may later include:
+The analysis also uses the following derived measures:
 
 - Change over time
-- Peer-group comparison
-- Gap from peer-group benchmark
-- Persistence of relatively poor performance
+- Annual hospital peer-group median
+- Gap from the peer-group median, measured in hours and percentage
+- Five-year persistent-gap classification
+- Cross-indicator performance-gap pattern
 
-These derived metrics will be finalized during the analysis-design stage.
+Lower P90 wait times indicate better relative performance.
 
----
+
 
 ## Dataset 2 — Emergency Department Wait Time for Physician Initial Assessment
 
