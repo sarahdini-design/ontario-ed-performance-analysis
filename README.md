@@ -180,6 +180,7 @@ Community–Medium had the highest share of corporations with a confirmed persis
 Community–Small hospitals also showed persistent gaps, although several corporations in this group had suppressed initial-assessment values, making the comparison less complete.
 
 The type of gap also varied by peer group. For example, **3 of 12 Teaching corporations (25.0%)** had persistent gaps in both indicators, compared with **1 of 16 Community–Medium corporations (6.3%)**.
+
 <img
   src="images/persistent-gaps-by-peer-group.png"
   alt="Persistent performance gap patterns by hospital peer group"
