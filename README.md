@@ -202,26 +202,30 @@ For Community–Small hospitals, suppressed initial-assessment values should als
 
 
 ## Question 6
+
 ### Which hospital corporations stand out for further investigation when long-term and current performance are considered together?
 
 ### Finding
+
 Nine hospital corporations showed persistent gaps in both ED indicators over the five-year period.
 
-When I compared those corporations with their 2024–2025 peer-group benchmarks, **7 of the 9 were still above the peer median in both indicators**.
+When I compared those corporations with their 2024–2025 peer-group benchmarks, **7 of the 9 were still above their peer median in both indicators**.
 
-Two corporations showed a more mixed current-year pattern. Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health remained well above its peer median for initial assessment but was below the peer median for admitted ED stay.
+Two corporations showed a more mixed current-year pattern. Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay was below it.
 
-Some of the largest current gaps among the persistent-gap group were seen at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
+Some of the largest current gaps within this persistent-gap group were seen at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
 
 ### Insight
-For most corporations with a persistent gap in both indicators, the longer-term pattern was still visible in the most recent year.
 
-This makes the 7 corporations that remained above their peer median in both measures particularly useful starting points for further investigation. At the same time, the results for Hamilton Health Sciences and Arnprior Regional Health show why the latest year should not simply be treated as a continuation of the historical pattern. Performance can change differently across the two stages of the ED journey.
+For most corporations with persistent gaps in both indicators, the longer-term pattern was still visible in the most recent year.
+
+The seven corporations that remained above their peer median in both measures are useful starting points for further review. At the same time, Hamilton Health Sciences and Arnprior Regional Health show why the latest year should not simply be treated as a continuation of the historical pattern.
 
 ### Recommendation
-Corporations that combine a five-year persistent gap with above-peer performance in both indicators in 2024–2025 would be reasonable priorities for a closer operational review.
 
-The purpose of that review would be to understand what is contributing to the pattern, not to assume a cause from the wait-time data alone. Patient volume, case mix, staffing, inpatient capacity, and other operational measures would be needed before making conclusions about why these corporations differ from their peers.
+Corporations that combine a five-year persistent gap with above-peer **wait times** in both indicators in 2024–2025 would be reasonable priorities for a closer operational review.
+
+The purpose of that review would be to understand what may be contributing to the pattern, not to assume a cause from the wait-time data alone. Patient volume, case mix, staffing, inpatient capacity, and other operational measures would be needed before drawing conclusions.
 
 Corporations whose latest-year results have moved away from their historical pattern should also be followed over additional years to see whether the change continues.
 
