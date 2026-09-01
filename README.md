@@ -218,7 +218,8 @@ Some of the largest current gaps within this persistent-gap group were seen at C
 <img
   src="images/persistent-gap-current-position.png"
   alt="2024–2025 peer-group gaps for corporations with persistent gaps in both ED indicators"
-  width="500"/>
+  width="300"/>
+
 *2024–2025 peer-group gaps for the nine hospital corporations with persistent gaps in both ED indicators over the five-year period.*[Explore this view interactively in Tableau Public](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/CurrentPerformanceofPersistent-GapCorporations?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
