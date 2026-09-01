@@ -280,20 +280,14 @@ Based on the patterns identified in this analysis, a few areas would be worth pr
 - **Combine wait-time results with operational data before making decisions.**  
   Patient volumes, case mix, staffing, inpatient bed availability, and other capacity measures would help determine what may be contributing to the gaps identified here.
 
-These recommendations are intended to identify where further investigation may be useful. The wait-time data alone is not enough to determine the underlying cause of a corporation's performance.
-
-
 
 ## Conclusion
 
-This analysis showed that Ontario ED performance changed over the five-year period, but the pattern was not the same across the two stages of the patient journey.
+This analysis showed that Ontario ED wait-time performance changed over the five-year period, but the two indicators did not follow the same pattern.
 
-Initial physician assessment waits increased fairly steadily, while admitted-patient ED stay rose more sharply and then showed some improvement after 2022–2023. Looking at both indicators together also showed that persistent performance gaps were not limited to one type of hospital or one part of the ED visit.
+Initial physician assessment waits increased fairly steadily, while admitted-patient ED stay rose more sharply before showing some improvement after 2022–2023. Looking at both measures together also showed that persistent gaps were not limited to one hospital peer group or one stage of the ED visit.
 
-The peer-group comparison helped add context to the raw wait times, and the five-year persistent-gap view made it possible to separate longer-term patterns from a single-year result.
+Comparing corporations with their peer-group median added useful context to the raw wait times, while the five-year view helped separate longer-term patterns from a single-year result.
 
-The main value of this analysis is not to label hospitals as good or bad, but to identify where performance gaps appear repeatedly and where a closer operational review may be useful.
-
-Further analysis using patient volume, case mix, staffing, inpatient capacity, and other operational data would be needed to understand what is driving the differences observed in this project.
-
+Overall, the analysis helped identify where performance gaps appeared repeatedly and which corporations may be worth looking at more closely. It does not explain why those gaps exist, but it provides a useful starting point for deeper operational analysis.
 
