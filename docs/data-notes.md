@@ -1,8 +1,7 @@
 
 # Data Familiarization Notes
 
-This document records the structure, methodology, data-quality observations, and preliminary analytical considerations for the two CIHI datasets used in the Ontario Emergency Department Performance Analysis project.
-
+This document records the structure, methodology, data-quality observations, and analytical decisions for the two CIHI datasets used in the Ontario Emergency Department Performance Analysis project.
 ---
 
 ## Dataset 1
