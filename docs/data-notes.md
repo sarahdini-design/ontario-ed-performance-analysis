@@ -239,8 +239,7 @@ This analytical grain is different from the CIHI indicator's underlying unit of 
 **Indicator:** Emergency Department Wait Time for Physician Initial Assessment
 
 The indicator measures the time interval between the earlier of registration or triage and the time of the patient's initial physician assessment in the emergency department. 
-
-CIHI uses starting point which is the earlier of registration or triage. because either event may occur first depending on hospital workflow and patient circumstances. The starting point is the earlier of registration or triage.
+The starting point is the earlier of registration or triage.
 
 - **CIHI unit of analysis:** Single ED visit
 - **Type of measurement:** Number of hours, percentile
@@ -266,7 +265,7 @@ The indicator includes unscheduled emergency department visits with:
 
 Excluded records include:
 
-- Scheduled emergency visits.
+- Scheduled emergency department visits.
 - Stillborn records.
 - Unscheduled ED visits with Visit Disposition 61 (`leave post-registration`).
 - Unscheduled ED visits with Visit Disposition 63 (`left after triage`).
