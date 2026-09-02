@@ -214,8 +214,8 @@ The original CIHI dataset contains multiple reporting levels and jurisdictions.
 
 For this project, the analytical subset is restricted to:
 
-- **Province/Territory:** `Ontario`
-- **Reporting level:** `Corporation`
+- **Province/Territory:** Ontario
+- **Reporting level:** Corporation
 
 The resulting analytical dataset contains:
 
@@ -226,7 +226,7 @@ The resulting analytical dataset contains:
 
 ### Analytical Grain
 
-**One row represents one Ontario hospital corporation in one fiscal year.**
+One row represents one Ontario hospital corporation in one fiscal year.
 
 Therefore:
 
@@ -238,9 +238,9 @@ This analytical grain is different from the CIHI indicator's underlying unit of 
 
 **Indicator:** Emergency Department Wait Time for Physician Initial Assessment
 
-The indicator measures the time interval between the earlier of registration or triage and the time of the patient's initial physician assessment in the emergency department.
+The indicator measures the time interval between the earlier of registration or triage and the time of the patient's initial physician assessment in the emergency department. 
 
-CIHI uses the earlier of registration or triage as the starting point because either event may occur first depending on hospital workflow and patient circumstances.
+CIHI uses starting point which is the earlier of registration or triage. because either event may occur first depending on hospital workflow and patient circumstances. The starting point is the earlier of registration or triage.
 
 - **CIHI unit of analysis:** Single ED visit
 - **Type of measurement:** Number of hours, percentile
@@ -251,7 +251,7 @@ CIHI uses the earlier of registration or triage as the starting point because ei
 
 ### Interpretation of the 90th Percentile
 
-The 90th percentile represents the maximum wait time within which 90% of included ED patients received their initial physician assessment.
+The 90th percentile shows the time within which 90% of included ED patients received their initial physician assessment.
 
 For example, a value of 5 hours means that 90% of included ED visits received an initial physician assessment within 5 hours, while approximately 10% waited longer.
 
