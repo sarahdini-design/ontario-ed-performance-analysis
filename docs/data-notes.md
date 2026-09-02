@@ -41,6 +41,24 @@ Therefore:
 
 This project uses a corporation-year analytical grain, while the underlying CIHI indicator is based on individual ED visits.
 
+### Key Fields
+
+Relevant fields in the source data include:
+- Indicator
+- Reporting level
+- Place or organization
+- Hospital Peer Group
+- Corporation
+- Region
+- Province/Territory
+- Trend note
+- Time Scale
+- Time frame
+- 90th percentile
+- 90th percentile: Data coverage
+- 90th percentile: Performance comparison
+- 90th percentile: Performance trend
+
 ### Indicator Definition
 
 **Indicator:** Total Time Spent in Emergency Department for Admitted Patients
@@ -78,44 +96,42 @@ Excluded records include:
 
 ### Hospital Peer Groups
 
-Ontario hospital corporations are classified into peer groups such as:
+Ontario hospital corporations are classified into four peer groups such as:
 
 - Teaching
 - Community—Large
 - Community—Medium
 - Community—Small
 
-Peer groups provide a more appropriate comparison context because hospital organizations may differ substantially in size, role, and patient population.
+Peer groups provide a more appropriate comparison context because hospital organizations can differ substantially in size, role, and patient population.
 
 For hospital performance comparisons, CIHI compares hospitals with their **peer group average** rather than simply comparing all hospitals with the Ontario average.
 
-### Exploratory Peer-Group Benchmark
+### Peer-Group Benchmark Choice
 
-As an exploratory exercise, Ontario `Community—Large` corporations were examined for fiscal year 2024–2025.
+During early exploration, I compared the mean and median for Ontario Community–Large corporations in 2024–2025.
 
 There were:
 
-- **25 Community—Large corporations**
+- **25 Community–Large corporations**
 - **Mean 90th-percentile ED time:** approximately 43.6 hours
 - **Median 90th-percentile ED time:** 42.0 hours
 
-The difference between the mean and median suggests that high values among some corporations may influence the arithmetic mean.
+Because some corporations had relatively high values, the mean was more affected by the upper end of the distribution. I therefore used the median as the peer-group benchmark in the final analysis.
 
-The median may therefore be useful as a robust descriptive benchmark when examining peer-group performance.
-
-This is an analyst-created exploratory benchmark and should not be confused with CIHI's official statistical performance classification.
+The peer-group median used in this project is analyst-created and is separate from CIHI's official performance-comparison methodology.
 
 ### Data Coverage
 
-No Ontario corporation-level records in this indicator dataset were explicitly flagged as having **partial data coverage**.
+No Ontario corporation-level records in this indicator dataset were explicitly flagged by CIHI as having partial data coverage.
 
-This does not necessarily mean that every record has 100% coverage; it means that none of the 320 Ontario corporation-level records were marked by CIHI with the `Partial data coverage` flag.
+This does not mean that every record necessarily has 100% coverage. It only means that none of the 320 Ontario corporation-year records carried CIHI's partial data coverage flag.
 
 ### CIHI Performance Classifications
 
 #### Performance Comparison
 
-For hospitals, CIHI compares performance with the hospital's peer group average.
+For hospitals, CIHI compares performance with the hospital's peer group using a statistical comparison method.
 
 Results are classified as:
 
@@ -139,8 +155,7 @@ CIHI classifies longitudinal performance as:
 
 `Weakening` indicates a statistically significant trend toward declining performance over time.
 
-`No change` indicates that no statistically significant trend was identified and suggests relatively stable performance.
-
+`No change` indicates that no statistically significant trend was identified. Annual values may still vary over time.
 Therefore, `No change` does not mean that yearly values are numerically identical.
 
 ### Performance Trend Profile — 2024–2025
@@ -153,59 +168,36 @@ Among the 64 Ontario hospital corporations in 2024–2025:
 
 These are CIHI-generated classifications and should not be treated as analyst-calculated trends.
 
-### Preliminary Longitudinal Observations
+### Longitudinal Interpretation
 
-Initial exploration shows that hospital corporations can follow different patterns over time.
+The five-year P90 values were analyzed separately from CIHI's performance-trend classifications.
 
-Some corporations show increasing 90th-percentile ED times across several fiscal years, while others show an earlier increase followed by relatively stable values.
+Corporations followed different patterns over time, so the latest-year CIHI trend classification was not used as a substitute for the project's five-year analysis.
 
-These observations are preliminary and will be validated during formal analysis rather than treated as final findings.
-
-Care should also be taken not to describe small numerical differences as statistically significant unless a statistical test or an official CIHI classification supports that conclusion.
+Small year-to-year differences were treated descriptively and were not interpreted as statistically significant unless supported by CIHI's published classification.
 
 ### Trend Notes
 
-Two Ontario corporation-level records contain CIHI trend notes:
+Two Ontario hospital corporations have CIHI trend notes across the five-year period:
 
 - **Sunnybrook Health Sciences Centre**
 - **Scarborough Health Network**
 
-The notes indicate historical organizational and/or data-attribution changes.
+The notes refer to historical organizational and/or data-attribution changes.
 
-Longitudinal comparisons involving these organizations should therefore be interpreted with caution because changes over time may partly reflect changes in organizational structure or data attribution rather than ED performance alone.
+Longitudinal results for these corporations should therefore be interpreted with some caution, since changes over time may partly reflect organizational or data-attribution changes rather than ED performance alone.
 
 ### Methodological Considerations
 
-CIHI notes that coverage in the National Ambulatory Care Reporting System (NACRS) can change over time as additional jurisdictions participate.
+CIHI notes that NACRS coverage can change over time as reporting participation changes. This should be kept in mind when interpreting results across several years.
 
-This should be considered when interpreting longitudinal results.
-
-The methodology page lists:
+The CIHI methodology page lists:
 
 - **Targets/Benchmarks:** Not applicable
 - **Method of adjustment:** Not applicable
 - **Adjustment applied:** None
 
-Therefore, the project should avoid presenting an analyst-created peer-group mean or median as an official CIHI target.
-
-### Key Fields
-
-Important fields for the planned analysis include:
-
-- Indicator
-- Reporting level
-- Place or organization
-- Hospital Peer Group
-- Corporation
-- Region
-- Province/Territory
-- Trend note
-- Time Scale
-- Time frame
-- 90th percentile
-- 90th percentile: Data coverage
-- 90th percentile: Performance comparison
-- 90th percentile: Performance trend
+For this reason, the peer-group median used in this project should not be interpreted as an official CIHI target or benchmark.
 
 
 
