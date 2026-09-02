@@ -56,8 +56,7 @@ The indicator measures the time interval between the earlier of registration or 
 
 ### Interpretation of the 90th Percentile
 
-The 90th percentile represents the maximum ED length of stay within which 90% of admitted ED patients completed their ED stay.
-
+The 90th percentile shows the time within which 90% of admitted ED patients completed their ED stay.
 For example, a value of 30 hours means that 90% of admitted patients completed their ED stay within 30 hours, while approximately 10% experienced longer ED stays.
 
 The 90th percentile is not an average.
