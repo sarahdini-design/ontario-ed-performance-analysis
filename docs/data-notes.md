@@ -17,7 +17,7 @@ This document records the structure, methodology, data-quality observations, and
 
 ### Analytical Subset
 
-The original CIHI dataset contains multiple reporting levels and jurisdictions. 
+The original CIHI dataset contains multiple reporting levels and jurisdictions.
 
 For this project, the analytical subset is restricted to:
 
@@ -33,13 +33,13 @@ The resulting analytical dataset contains:
 
 ### Analytical Grain
 
-**One row represents one Ontario hospital corporation in one fiscal year.**
+One row represents one Ontario hospital corporation in one fiscal year.
 
 Therefore:
 
 `64 hospital corporations × 5 fiscal years = 320 corporation-level rows`
 
-This analytical grain is different from the CIHI indicator's underlying unit of analysis.
+This project uses a corporation-year analytical grain, while the underlying CIHI indicator is based on individual ED visits.
 
 ### Indicator Definition
 
