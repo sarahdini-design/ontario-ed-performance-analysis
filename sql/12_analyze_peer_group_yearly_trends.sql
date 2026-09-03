@@ -1,4 +1,3 @@
--- Purpose:
 -- Compare annual ED performance across Ontario hospital peer groups.
 -- Calculates available record counts, mean P90, and median P90
 -- for both Physician Initial Assessment and admitted patient ED stay.
