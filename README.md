@@ -260,6 +260,7 @@ Nine hospital corporations had persistent gaps in both ED indicators over the fi
 
 [View the SQL query](./sql/24_identify_current_persistent_priorities.sql)
 
+
 <img
   src="images/persistent-gap-current-position.png"
   alt="2024–2025 peer-group gaps for corporations with persistent gaps in both ED indicators"
