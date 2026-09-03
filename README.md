@@ -207,6 +207,7 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
 
 [View the SQL query](./sql/23_analyze_persistent_gaps_by_peer_group.sql)
 
+
 <img
   src="images/persistent-gaps-by-peer-group.png"
   alt="Persistent performance gap patterns by hospital peer group"
