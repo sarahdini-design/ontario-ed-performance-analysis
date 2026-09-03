@@ -1,10 +1,5 @@
--- ============================================================
--- 08_validate_join_keys.sql
--- Purpose:
 -- Validate that the two cleaned ED datasets can be joined
 -- reliably using corporation + time_frame as the composite key.
--- ============================================================
-
 
 -- 1. Count matching corporation-year records
 -- INNER JOIN keeps only records that exist in both datasets.
