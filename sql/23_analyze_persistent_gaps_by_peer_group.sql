@@ -1,3 +1,6 @@
+-- Compare persistent performance-gap patterns across hospital peer groups.
+-- Report both corporation counts and percentages within each peer group.
+
 WITH corporation_level AS (
   SELECT DISTINCT
     corporation,
