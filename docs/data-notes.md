@@ -278,22 +278,18 @@ CIHI lists the formal target/benchmark for this indicator as:
 
 `Not applicable`
 
-Therefore, analyst-created peer-group averages or medians should not be presented as official CIHI targets.
+The peer-group median used in this project is analyst-created and should not be interpreted as an official CIHI target or benchmark.
 
 ### Data Quality — Suppressed Values
 
-Unlike Dataset 1, Dataset 2 contains records where the `90th percentile` value is reported as:
-
-`Suppressed`
+Unlike Dataset 1, Dataset 2 contains records where the `90th percentile` value is reported as `Suppressed`.
 
 There are:
 
 - **17 suppressed corporation-year records**
 - **303 non-suppressed corporation-year records**
 
-Suppressed values must not be interpreted as zero.
-
-They will be treated as unavailable values during analysis.
+Suppressed values were not interpreted as zero. They were treated as unavailable values in the analysis.
 
 ### Distribution of Suppressed Records
 
@@ -308,7 +304,7 @@ The 17 suppressed records are concentrated in five hospital corporations:
 | North of Superior Healthcare Group | 1 |
 | **Total** | **17** |
 
-Weeneebayko Area Health Authority has suppressed values for all five fiscal years, meaning a five-year trend for this indicator cannot be evaluated for that corporation using the published values.
+Weeneebayko Area Health Authority has suppressed values for all five fiscal years, so its five-year pattern for this indicator cannot be evaluated using the published values.
 
 For the other affected corporations, some fiscal years remain available for analysis.
 
@@ -316,7 +312,7 @@ For the other affected corporations, some fiscal years remain available for anal
 
 Suppression is concentrated in a small number of organizations rather than being distributed across all 64 corporations.
 
-This should be considered when:
+This matters when:
 
 - Comparing hospital corporations.
 - Calculating peer-group statistics.
@@ -330,8 +326,7 @@ Therefore, no assumption will be made that suppression is caused by low counts, 
 
 ### Methodological Considerations
 
-CIHI notes that coverage in the National Ambulatory Care Reporting System (NACRS) can change over time as additional jurisdictions participate.
-
+CIHI notes that NACRS National Ambulatory Care Reporting System (NACRS) coverage can change over time as reporting participation changes.  
 This should be considered when interpreting longitudinal results.
 
 The methodology page lists:
@@ -342,7 +337,9 @@ The methodology page lists:
 - **Geographic assignment:** Place of service
 - **Data source:** NACRS
 
-  **Two Ontario corporation-level records contain CIHI trend notes:**
+ ### Trend Notes
+ 
+ Two Ontario hospital corporations have CIHI trend notes across the five-year period:
 
 - **Scarborough Health Network**
 - **Sunnybrook Health Sciences Centre**
@@ -364,9 +361,8 @@ Among the 64 Ontario hospital corporations in 2024–2025:
 - **5** had no reported trend classification (`–`)
 - **0** were classified as `Improving`
 
-The five corporations without a reported trend classification are the same organizations affected by suppressed values in this indicator dataset.
-
-This suggests a possible relationship between data suppression and the absence of a trend classification; however, this relationship should not be treated as causal unless confirmed by CIHI documentation.
+The five corporations without a reported trend classification are the same five corporations affected by suppressed values in this indicator dataset.
+This overlap was noted as a data-quality pattern, but no causal relationship was assumed without supporting CIHI documentation.
 
 ### Performance Comparison Profile — 2024–2025
 
@@ -379,20 +375,16 @@ Among the 64 Ontario hospital corporations in 2024–2025:
 
 The corporation without a reported performance comparison was **Weeneebayko Area Health Authority**, for which the published 90th-percentile value is suppressed.
 
-For hospitals, CIHI performance comparison is relative to the hospital's **peer group average** and reflects a statistical comparison rather than a simple numerical comparison with the overall Ontario average.
+For hospitals, CIHI's performance comparison is based on comparison with similar hospitals in the same peer group and uses CIHI's statistical methodology. It should not be interpreted as a simple numerical comparison with the Ontario average.
 
 ### Performance Comparison and Trend Metadata
 
-- Performance Comparison and Performance Trend are populated only for the
-  most recent fiscal year (2024–2025) in the Ontario corporation-level subset.
+- Performance Comparison and Performance Trend are populated only for the most recent fiscal year (2024–2025) in the Ontario corporation-level subset.
 - Performance Comparison is available for 63 of 64 corporations.
-- The five corporations without a trend classification are the same five
-  corporations with at least one suppressed P90 observation during the
-  five-year period.
-- Trend classifications should therefore be interpreted cautiously for
-  organizations with incomplete longitudinal data.
+- The five corporations without a reported trend classification are the same five corporations with at least one suppressed P90 value during the five-year period.
+- This overlap was treated as a data-quality observation rather than evidence of a causal relationship.
 
-### Planned Data Integration
+### Data Integration
 
 Datasets 1 and 2 share the same analytical structure:
 
@@ -402,7 +394,7 @@ Datasets 1 and 2 share the same analytical structure:
 - 5 fiscal years
 - 320 corporation-year records
 
-The planned analytical join key is:
+The datasets were joined using:
 
 `Corporation + Time frame`
 
@@ -411,32 +403,33 @@ After integration, each corporation-year record contains both:
 1. **90th-percentile physician initial assessment wait time**
 2. **90th-percentile total ED time for admitted patients**
 
-Suppressed values in Dataset 2 will remain missing/unavailable after the datasets are joined and will not be replaced with zero.
+All 320 corporation-year combinations matched across the two datasets.
 
+Suppressed values in Dataset 2 remained missing/unavailable after integration and were not replaced with zero.
 
 
 ## Analytical Purpose of Using Both Indicators
 
 The two indicators represent different stages of the emergency department patient journey.
 
-**Dataset 2** represents the period from arrival/triage or registration to initial physician assessment.
+**Dataset 2** measures the time from the earlier of registration or triage to initial physician assessment.
 
-**Dataset 1** represents the broader ED stay for patients who are ultimately admitted, from registration/triage until they leave the ED after admission.
+**Dataset 1** measures the broader ED stay for patients who are ultimately admitted, from the earlier of registration or triage until they leave the ED after admission.
 
-Using both measures may help distinguish between:
+Looking at both measures helps show whether longer waits are appearing earlier in the ED visit, later in the journey for admitted patients, or in both stages.
 
-- Performance pressure before initial physician assessment.
-- Performance pressure later in the ED journey for admitted patients.
-
-This supports a more informative analysis than ranking hospital corporations using only a single ED wait-time measure.
-
+This provides more context than looking at a single ED wait-time measure alone.
 
 ## Analysis Methodology
 
-
 ### Analytical Measures
 
-The main measure for this indicator is the **90th-percentile total ED time for admitted patients**, reported in hours.
+The two main measures used in the analysis are:
+
+- **90th-percentile wait time for physician initial assessment**
+- **90th-percentile total ED time for admitted patients**
+
+Both are reported in hours.
 
 The analysis also uses the following derived measures:
 
@@ -448,18 +441,17 @@ The analysis also uses the following derived measures:
 
 Lower P90 wait times indicate better relative performance.
 
-
 ### Peer Benchmark Selection
 
 The median was selected as the primary peer-group benchmark because it is less sensitive to unusually high or low wait-time values and better represents the performance of a typical corporation within the same hospital peer group.
 
-The median was retained in the broader yearly trend analysis because it is still useful for understanding overall performance and the influence of extreme values.
+The median was also used to summarize the broader yearly trends because it provides a more stable view of typical corporation-level performance when unusually high values are present.
 
-For peer benchmarking, the performance gap is calculated as:
+For peer benchmarking, the performance gap was calculated as:
 
 `Corporation P90 - Peer Group Median P90`
 
-A positive gap indicates a higher wait time than the peer-group median, while a negative gap indicates a lower wait time.
+A positive gap means the corporation's P90 wait time was higher than its peer-group median, while a negative gap means it was lower. Because lower P90 values indicate better performance, a positive gap represents relatively worse performance.
 
 The peer benchmark is calculated separately for each hospital peer group within each fiscal year.
 
@@ -470,15 +462,15 @@ This benchmark is not volume-weighted; each hospital corporation contributes one
 
 A persistent performance gap was defined as a corporation having a P90 wait time above its annual hospital peer-group median in at least **4 of the 5 fiscal years**.
 
-For the admitted-patient ED stay indicator, all corporations had complete five-year data, so the classification was based on the full five-year period.
+For the admitted-patient ED stay indicator, all corporations had complete five-year data, so a persistent gap required performance above the annual peer-group median in at least 4 of the 5 years.
 
-For the initial physician assessment indicator, some P90 values were suppressed. A corporation was classified only when at least **4 years of usable data** were available. If fewer than 4 years were available, the result was marked as **Insufficient data**.
+For the initial physician assessment indicator, some P90 values were suppressed. A corporation needed at least **4 years of usable data** to be classified. A persistent gap was assigned when the corporation was above its annual peer-group median in at least 4 available years. Corporations with fewer than 4 usable years were marked as **Insufficient data**.
 
 This definition was created for this analysis to separate a repeated pattern from a one-year or short-term gap. It is an analytical rule used in this project and should not be interpreted as CIHI's official performance classification methodology.
 
 ### Persistent Performance Gaps by Hospital Peer Group
 
-To check whether persistent performance gaps were concentrated in particular types of hospitals, corporations were grouped by `hospital_peer_group` and their five-year `performance_gap_pattern`.
+To see whether persistent performance gaps were concentrated in particular hospital peer groups, corporations were grouped by `hospital_peer_group` and their five-year `performance_gap_pattern`.
 
 Because the analysis-ready table contains one row per corporation per fiscal year, each corporation was first reduced to a single corporation-level record before counting patterns by peer group. Percentages were calculated within each peer group rather than using raw counts alone, since the number of corporations differs between groups.
 
@@ -491,19 +483,23 @@ Because the analysis-ready table contains one row per corporation per fiscal yea
 
 The distribution of gap types also differed across peer groups. Teaching hospitals had the highest proportion of corporations with persistent gaps in both indicators: 3 of 12 (25.0%). In comparison, only 1 of 16 Community–Medium corporations (6.3%) showed persistent gaps in both indicators.
 
-#### Interpretation
+### Interpretation
 
-The results did not show a clear concentration of persistent gaps in a single hospital peer group. Community–Medium had the highest proportion of corporations with at least one persistent gap, but the difference from the other peer groups was not large enough to suggest that persistent ED performance gaps were limited to one hospital type.
+Persistent gaps appeared across all four hospital peer groups rather than being concentrated in one group.
 
-The mix of gap patterns appears more informative than the overall percentage alone. Different peer groups showed different combinations of initial-assessment and admitted-patient ED stay gaps.
+Community-Medium had the highest proportion of corporations with at least one persistent gap, but persistent gaps were also common in the other peer groups.
 
-#### Data-quality note
+The type of gap also differed across groups. For example, Teaching hospitals had a larger share of corporations with persistent gaps in both indicators.
 
-Community–Small results should be interpreted more cautiously because several corporations had suppressed physician initial-assessment P90 values. Suppressed values were kept as unavailable and were not estimated or imputed.
+Overall, the pattern of gaps across the two indicators was more informative than the percentage for any one peer group alone.
+
+### Data-quality Note
+
+Community-Small results should be interpreted more cautiously because several corporations had suppressed physician initial-assessment P90 values. Suppressed values were kept as unavailable and were not estimated or imputed.
 
 #### Related SQL
 
-`23_analyze_persistent_gaps_by_peer_group.sql`
+[23_analyze_persistent_gaps_by_peer_group.sql](../sql/23_analyze_persistent_gaps_by_peer_group.sql)
 
 
 ### Persistent Gaps and Current-Year Performance
@@ -523,5 +519,6 @@ Corporations that showed both a five-year persistent gap and above-peer-median w
 
 Because lower P90 wait times indicate better relative performance, a positive gap means that the corporation's P90 wait time was higher than the annual median of its hospital peer group.
 
-**Related SQL:**  
-`sql/24_identify_current_persistent_priorities.sql`
+#### Related SQL
+
+[24_identify_current_persistent_priorities.sql](../sql/24_identify_current_persistent_priorities.sql)
