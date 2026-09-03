@@ -1,3 +1,8 @@
+-- Validate the cleaned physician initial-assessment ED table.
+-- Checks P90 and suppression consistency, metadata completeness, and the availability of comparison and trend fields by fiscal year.
+
+-- 1. Validate P90 values and suppression
+
 SELECT
   COUNT(*) AS total_rows,
 
@@ -21,7 +26,7 @@ FROM `ontario-ed-performance-2026.ontario_ed.clean_ed_initial`;
 
 
 
--- Validate metadata completeness
+-- 2. Validate metadata completeness
 
 SELECT
   COUNT(*) AS total_rows,
@@ -32,7 +37,7 @@ SELECT
 FROM `ontario-ed-performance-2026.ontario_ed.clean_ed_initial`;
 
 
--- Check which fiscal year contains comparison and trend metadata
+-- 3. Check which fiscal year contains comparison and trend metadata
 
 SELECT
   time_frame,
