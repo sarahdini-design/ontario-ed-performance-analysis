@@ -248,15 +248,15 @@ Nine hospital corporations had persistent gaps in both ED indicators over the fi
 
 | Corporation | Peer Group | Initial Gap % | Admitted Gap % | 2024–2025 Position |
 |---|---|---:|---:|---|
-| Corporation 1 | ... | ... | ... | Above peer median in both |
-| Corporation 2 | ... | ... | ... | Above peer median in both |
-| Corporation 3 | ... | ... | ... | Above peer median in both |
-| Corporation 4 | ... | ... | ... | Above peer median in both |
-| Corporation 5 | ... | ... | ... | Above peer median in both |
-| Corporation 6 | ... | ... | ... | Above peer median in both |
-| Corporation 7 | ... | ... | ... | Above peer median in both |
-| Hamilton Health Sciences | ... | ... | ... | Above peer median in admitted only |
-| Arnprior Regional Health | ... | ... | ... | Above peer median in initial only |
+| Cambridge Memorial Hospital Corporation | Community-Medium | 72.4% | 84.0% | Above peer median in both |
+| Niagara Health System (Ont.) | Community-Large | 40.0% | 75.7% | Above peer median in both |
+| Peterborough Regional Health Centre | Community-Large | 35.6% | 40.2% | Above peer median in both |
+| Sunnybrook Health Sciences Centre | Teaching | 64.9% | 39.7% | Above peer median in both |
+| Brant Community Healthcare System | Community-Large | 68.9% | 15.2% | Above peer median in both |
+| The Ottawa Hospital (Ont.) | Teaching | 50.5% | 10.6% | Above peer median in both |
+| Halton Healthcare Services (Ont.) | Community-Large | 8.9% | 5.7% | Above peer median in both |
+| Hamilton Health Sciences (Ont.) | Teaching | -3.1% | 3.8% | Above peer median in admitted only |
+| Arnprior Regional Health (Ont.) | Community-Small | 77.8% | -6.4% | Above peer median in initial only |
 
 [View the SQL query](./sql/24_identify_current_persistent_priorities.sql)
 
