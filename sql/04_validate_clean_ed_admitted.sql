@@ -1,3 +1,6 @@
+-- Validate the cleaned admitted-patient ED table after standardization.
+-- Checks the total row count and NULL values in key CIHI metadata fields.
+
 SELECT
   COUNT(*) AS total_rows,
   COUNTIF(p90_data_coverage IS NULL) AS null_coverage,
