@@ -1,3 +1,6 @@
+-- Standardize the cleaned admitted-patient ED data.
+-- Converts CIHI placeholder values to NULL and keeps P90 wait time as a numeric field.
+
 CREATE OR REPLACE TABLE
   `ontario-ed-performance-2026.ontario_ed.clean_ed_admitted` AS
 
