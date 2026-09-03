@@ -1,3 +1,6 @@
+-- Create the cleaned physician initial-assessment ED table for Ontario hospital corporations.
+-- Standardizes placeholder values, converts P90 wait time to numeric, and flags suppressed records.
+
 CREATE TABLE `ontario-ed-performance-2026.ontario_ed.clean_ed_initial` AS
 
 SELECT
