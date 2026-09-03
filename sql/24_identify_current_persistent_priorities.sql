@@ -1,3 +1,6 @@
+-- Compare the latest-year position of corporations with persistent gaps in both indicators.
+-- Use 2024–2025 peer-group gaps to identify useful candidates for further investigation.
+
 SELECT
   corporation,
   hospital_peer_group,
