@@ -194,6 +194,19 @@ Community–Small hospitals also showed persistent gaps, although several corpor
 
 The type of gap also varied by peer group. For example, **3 of 12 Teaching corporations (25.0%)** had persistent gaps in both indicators, compared with **1 of 16 Community–Medium corporations (6.3%)**.
 
+#### Peer-group summary
+
+| Hospital Peer Group | Corporations with a Persistent Gap | Total Corporations | Share |
+|---|---:|---:|---:|
+| Community-Medium | 10 | 16 | 62.5% |
+| Community-Large | 14 | 25 | 56.0% |
+| Community-Small | 6 | 11 | 54.5% |
+| Teaching | 6 | 12 | 50.0% |
+
+<sub>Persistent gap refers to a confirmed persistent gap in at least one of the two ED indicators. Community-Small results should be interpreted with some caution because of suppressed initial-assessment values.</sub>
+
+[View the SQL query](./sql/23_analyze_persistent_gaps_by_peer_group.sql)
+
 <img
   src="images/persistent-gaps-by-peer-group.png"
   alt="Persistent performance gap patterns by hospital peer group"
