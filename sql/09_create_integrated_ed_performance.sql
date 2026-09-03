@@ -1,3 +1,6 @@
+-- Create the integrated ED performance table by combining both cleaned indicators.
+-- Joins corporation-year records on corporation + time_frame and keeps measures from both stages of the ED journey.
+
 CREATE OR REPLACE TABLE
   `ontario-ed-performance-2026.ontario_ed.ed_performance_integrated` AS
 
