@@ -1,12 +1,6 @@
--- Purpose:
--- Classify each Ontario hospital corporation based on the pattern of
--- persistent performance gaps across two ED indicators:
--- Physician Initial Assessment and admitted patient ED stay.
---
--- The query identifies whether a corporation has a persistent gap in:
--- both indicators, Initial Assessment only, admitted ED stay only,
--- neither indicator, or whether Initial Assessment data are insufficient.
-
+-- Classify each Ontario hospital corporation by its five-year persistent-gap pattern
+-- across physician initial assessment and admitted-patient ED stay.
+-- Categories distinguish gaps in both indicators, one indicator, neither, or insufficient initial-assessment data.
 
 
 WITH peer_benchmarks AS (
