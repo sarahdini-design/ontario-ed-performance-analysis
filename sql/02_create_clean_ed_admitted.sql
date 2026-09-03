@@ -1,3 +1,6 @@
+-- Create the initial cleaned admitted-patient ED table for Ontario hospital corporations.
+-- Filters the raw CIHI data to the analytical scope and converts P90 wait time to a numeric field.
+
 CREATE TABLE `ontario-ed-performance-2026.ontario_ed.clean_ed_admitted` AS
 
 SELECT
