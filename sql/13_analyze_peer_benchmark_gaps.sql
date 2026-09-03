@@ -1,4 +1,3 @@
--- Purpose:
 -- Benchmark each Ontario hospital corporation against the median performance
 -- of its hospital peer group in the same fiscal year.
 -- Calculates performance gaps for both Physician Initial Assessment
