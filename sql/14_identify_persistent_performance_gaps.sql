@@ -1,4 +1,3 @@
--- Purpose:
 -- Identify Ontario hospital corporations with persistent performance gaps
 -- relative to the median of their hospital peer group.
 -- A persistent gap is defined as performance above the peer median
