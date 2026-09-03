@@ -1,4 +1,3 @@
--- Purpose:
 -- Summarize the number of Ontario hospital corporations in each
 -- persistent performance gap pattern across the two ED indicators.
 
