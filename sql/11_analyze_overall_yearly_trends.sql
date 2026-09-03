@@ -1,4 +1,3 @@
--- Purpose:
 -- Summarize annual ED performance across Ontario hospital corporations.
 -- Calculates the number of available records, mean P90, and median P90
 -- for both Physician Initial Assessment and total ED stay for admitted patients.
