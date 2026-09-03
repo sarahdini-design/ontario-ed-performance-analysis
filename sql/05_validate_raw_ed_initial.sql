@@ -1,9 +1,5 @@
--- ============================================================
--- 05_validate_raw_ed_initial.sql
--- Purpose:
 -- Validate the raw Physician Initial Assessment dataset
 -- before creating the clean analytical table.
--- ============================================================
 
 -- 1. Validate Ontario corporation-level row count
 -- Expected result: 320 rows
