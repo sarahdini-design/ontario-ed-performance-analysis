@@ -11,6 +11,19 @@ Emergency department performance can look very different depending on which part
 
 I wanted to see how these measures changed over time, how hospital corporations compared with similar hospitals, and whether some performance gaps appeared repeatedly across several years.
 
+## Data Sources
+
+This analysis uses two publicly available emergency department indicators from the Canadian Institute for Health Information (CIHI):
+
+- [Emergency Department Wait Time for Physician Initial Assessment](https://www.cihi.ca/en/indicators/emergency-department-wait-time-for-physician-initial-assessment)
+- [Total Time Spent in Emergency Department for Admitted Patients](https://www.cihi.ca/en/indicators/total-time-spent-in-emergency-department-for-admitted-patients)
+
+Both datasets were filtered to Ontario hospital corporations and cover five fiscal years, from 2020–2021 to 2024–2025.
+
+The underlying data source is CIHI's National Ambulatory Care Reporting System (NACRS).
+
+The raw CIHI files are not included in this repository. Data preparation, cleaning, and analytical decisions are documented in the [`sql`](./sql) folder and [`data-notes.md`](./docs/data-notes.md).
+
 ## Interactive Dashboard
 
 [View the interactive Tableau dashboard.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/OntarioEDPerformanceOverview?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
