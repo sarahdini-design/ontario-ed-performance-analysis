@@ -1,3 +1,7 @@
+-- Create the analysis-ready ED performance table used for the final analysis.
+-- Adds annual peer-group benchmarks, gap measures, and five-year persistent-gap classifications for both ED indicators.
+-- Keeps one row per hospital corporation per fiscal year.
+
 CREATE OR REPLACE TABLE
   `ontario-ed-performance-2026.ontario_ed.ed_performance_analysis_ready` AS
 
