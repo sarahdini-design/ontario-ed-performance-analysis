@@ -1,3 +1,7 @@
+-- Check that the analysis-ready table still has one row
+-- per hospital corporation per fiscal year.
+-- Expected result: no duplicate corporation-year records.
+
 SELECT
   corporation,
   time_frame,
