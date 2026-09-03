@@ -1,4 +1,3 @@
--- Purpose:
 -- Create a 2024–2025 performance profile for each Ontario hospital
 -- corporation by combining current peer-benchmark gaps with five-year
 -- persistent gap status and CIHI performance metadata for both ED indicators.
