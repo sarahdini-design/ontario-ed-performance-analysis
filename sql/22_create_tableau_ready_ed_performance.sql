@@ -1,3 +1,6 @@
+-- Create the Tableau-ready dataset from the final analysis table.
+-- Add a numeric year order so fiscal years display chronologically in Tableau.
+
 CREATE OR REPLACE TABLE
   `ontario-ed-performance-2026.ontario_ed.ed_performance_tableau_ready` AS
 
