@@ -242,6 +242,24 @@ Two corporations showed a more mixed current-year pattern. Hamilton Health Scien
 
 Some of the largest current gaps within this persistent-gap group were seen at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
 
+#### Current position of persistent-gap corporations
+
+Nine hospital corporations had persistent gaps in both ED indicators over the five-year period. In 2024–2025, seven of the nine were still above their peer-group median in both indicators.
+
+| Corporation | Peer Group | Initial Gap % | Admitted Gap % | 2024–2025 Position |
+|---|---|---:|---:|---|
+| Corporation 1 | ... | ... | ... | Above peer median in both |
+| Corporation 2 | ... | ... | ... | Above peer median in both |
+| Corporation 3 | ... | ... | ... | Above peer median in both |
+| Corporation 4 | ... | ... | ... | Above peer median in both |
+| Corporation 5 | ... | ... | ... | Above peer median in both |
+| Corporation 6 | ... | ... | ... | Above peer median in both |
+| Corporation 7 | ... | ... | ... | Above peer median in both |
+| Hamilton Health Sciences | ... | ... | ... | Above peer median in admitted only |
+| Arnprior Regional Health | ... | ... | ... | Above peer median in initial only |
+
+[View the SQL query](./sql/24_identify_current_persistent_priorities.sql)
+
 <img
   src="images/persistent-gap-current-position.png"
   alt="2024–2025 peer-group gaps for corporations with persistent gaps in both ED indicators"
