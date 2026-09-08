@@ -68,15 +68,13 @@ COUNTIF(
   initial_p90_hours > peer_median_initial_p90
 ) >= 4
 ```
-A persistent gap was defined as being above the annual peer-group median in at least 4 of 5 years.
+A persistent gap was defined as being above the annual peer-group median in at least **4** of **5** years.
 [View all SQL queries](https://github.com/sarahdini-design/ontario-ed-performance-analysis/tree/main/sql)
 
 
 ## Question 1
 
 ### How did emergency department wait times change across Ontario hospital corporations over the five-year period?
-
-### Finding
 
 ### Finding
 
@@ -182,9 +180,9 @@ I would not use these results to rank hospitals. I would use them to decide wher
 
 ### Finding
 
-This was one of the more useful checks for me because the latest year did not always tell the same story as the five-year pattern. A corporation could look better in 2024–2025 and still have a clear persistent gap over time.
+This was one of the more useful checks for me because the latest year did not always tell the same story as the five-year pattern. A corporation could look better in **2024–2025** and still have a clear persistent gap over time.
 
-Among the nine corporations with persistent gaps in both indicators, seven were still above their peer median in both measures in 2024–2025. Two showed a mixed latest-year result.
+Among the nine corporations with persistent gaps in both indicators, seven were still above their peer median in both measures in **2024–2025**. Two showed a mixed latest-year result.
 
 Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay moved below it.
 
@@ -209,7 +207,9 @@ If the two tell different stories, I would keep following the corporation over t
 
 A large gap is still a reason to look more closely, but it does not explain why the gap exists.
 
+
 ## Question 5
+
 ### Were persistent performance gaps concentrated in particular hospital peer groups?
 
 ### Finding
@@ -263,8 +263,6 @@ For Community–Small hospitals, I would also keep the suppressed initial-assess
 ## Question 6
 
 ### Which hospital corporations stand out for further investigation when long-term and current performance are considered together?
-
-### Finding
 
 ### Finding
 
