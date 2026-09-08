@@ -58,6 +58,7 @@ OVER (
   PARTITION BY time_frame, hospital_peer_group
 ) AS peer_median_initial_p90
 [View all SQL queries]()
+```
 I then compared each corporation with that annual peer benchmark and used the five-year results to identify persistent gaps.
 
 
