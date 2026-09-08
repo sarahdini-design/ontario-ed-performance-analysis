@@ -2,6 +2,8 @@
 
 A five-year analysis of emergency department wait times across Ontario hospital corporations using public data from the Canadian Institute for Health Information (CIHI).
 
+**Tools:** BigQuery (SQL) · Tableau Public · GitHub
+
 ## Project Overview
 
 Emergency department performance can look very different depending on which part of the patient journey is being measured. In this project, I looked at two CIHI indicators:
@@ -45,6 +47,19 @@ For this case study, I used the published indicator values to build a separate l
 - compared the two ED indicators to see where those persistent gaps appeared.
 
 The peer-median benchmark and persistent-gap definition used here are analytical methods created for this project and are separate from CIHI's official performance comparison methodology.
+
+### SQL example
+
+One of the main steps was calculating an annual median within each hospital peer group:
+
+```sql
+PERCENTILE_CONT(initial_p90_hours, 0.5)
+OVER (
+  PARTITION BY time_frame, hospital_peer_group
+) AS peer_median_initial_p90
+[View all SQL queries](
+I then compared each corporation with that annual peer benchmark and used the five-year results to identify persistent gaps.
+
 
 
 ## Question 1
