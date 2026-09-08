@@ -58,7 +58,16 @@ OVER (
   PARTITION BY time_frame, hospital_peer_group
 ) AS peer_median_initial_p90
 ```
-I then compared each corporation with that annual peer benchmark and used the five-year results to identify persistent gaps.
+I then used those yearly peer benchmarks to identify corporations with gaps that persisted over time.
+
+The following condition flags corporations that were above their annual peer-group median in at least 4 of 5 years:
+
+```sql
+COUNTIF(
+  initial_p90_hours > peer_median_initial_p90
+) >= 4
+```
+A persistent gap was defined as being above the annual peer-group median in at least 4 of 5 years.
 [View all SQL queries]()
 
 
