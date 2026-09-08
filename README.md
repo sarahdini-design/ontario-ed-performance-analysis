@@ -78,9 +78,13 @@ A persistent gap was defined as being above the annual peer-group median in at l
 
 ### Finding
 
-At the corporation level, the median P90 wait for initial physician assessment increased from **2.5 hours in 2020–2021 to 4.3 hours in 2024–2025**.
+### Finding
 
-For admitted patients, the pattern was different. The median P90 ED stay increased from **23.0 hours in 2020–2021 to 35.6 hours in 2022–2023**, then declined somewhat over the next two years to about **33.3 hours in 2024–2025**.
+The first thing I looked at was how the two wait-time measures changed over the five years.
+
+For initial physician assessment, the median P90 wait increased from **2.5** hours in 2020–2021 to **4.3** hours in 2024–2025.
+
+Admitted-patient ED stay followed a different pattern. It increased from **23.0** hours to **35.6** hours by 2022–2023, then came down somewhat over the next two years to about **33.3** hours in 2024–2025.
 
 ![Five-year trend in Ontario ED wait times](images/five-year-ed-trends.png)
 *Five-year median P90 trends for initial physician assessment and admitted-patient ED stay.*
@@ -88,17 +92,17 @@ For admitted patients, the pattern was different. The median P90 ED stay increas
 
 ### Insight
 
-Both measures ended the five-year period higher than where they started, but they followed different paths.
+What stood out to me was that the two parts of the ED journey did not move in the same way.
 
-Initial assessment waits increased fairly steadily. Admitted-patient ED stay rose much more sharply through 2022–2023, then showed some improvement afterward.
+Initial-assessment waits increased fairly steadily, while admitted-patient ED stay increased much more sharply and then started to improve after 2022–2023.
 
-Seeing the two measures side by side made it clear that the pattern was not the same across different stages of the ED visit.
+Looking at the two measures together gave a clearer picture than looking at either one alone.
 
 ### Recommendation
 
-The continued increase in initial-assessment wait times is worth looking at more closely because it appears across several years rather than in a single period.
+The continued increase in initial-assessment waits is worth watching because it appears across several years, not just one.
 
-The improvement in admitted-patient ED stay after 2022–2023 is also worth following to see whether it continues in future years.
+The improvement in admitted-patient ED stay after 2022–2023 is also worth following to see whether it continues.
 
 
 ## Question 2
@@ -107,7 +111,7 @@ The improvement in admitted-patient ED stay after 2022–2023 is also worth foll
 
 ### Finding
 
-The five-year classification showed several different patterns across the 64 Ontario hospital corporations:
+When I looked at the five-year pattern for each corporation, the results fell into several different groups:
 
 - **25** did not show a persistent gap in either measure.
 - **15** showed a persistent gap only in admitted-patient ED stay.
@@ -120,19 +124,19 @@ The five-year classification showed several different patterns across the 64 Ont
 
 ### Insight
 
-Persistent gaps did not follow one common pattern.
+There was not one common pattern across the hospitals.
 
-Some corporations were repeatedly above their peer median before initial physician assessment, while others showed the gap mainly in admitted-patient ED stay. Nine corporations showed persistent gaps in both measures.
+Some corporations were repeatedly above their peer median mainly for initial assessment, while others stood out more for admitted-patient ED stay. Nine showed persistent gaps in both.
 
-This means that looking at only one ED indicator would not have shown the full picture for every corporation.
+For me, this was an important result because it showed that one ED measure alone would not tell the full story.
 
 ### Recommendation
 
-Corporations with persistent gaps in both measures are a useful starting point for deeper review because the pattern appears at more than one stage of the ED visit.
+I would look first at corporations with persistent gaps in both measures, since the pattern is showing up at more than one stage of the ED visit.
 
-Corporations with a gap in only one measure should be reviewed separately, since the part of the patient journey that stands out is different.
+Corporations with a gap in only one measure should be looked at separately because the issue may be happening at a different part of the patient journey.
 
-To understand what may be contributing to these gaps, the wait-time results would need to be combined with operational information such as patient volumes, case mix, staffing, and inpatient capacity.
+To understand what is behind these patterns, I would need operational data such as patient volume, case mix, staffing, and inpatient capacity.
 
 
 ## Question 3
