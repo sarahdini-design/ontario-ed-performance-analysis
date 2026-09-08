@@ -68,7 +68,7 @@ COUNTIF(
 ) >= 4
 ```
 A persistent gap was defined as being above the annual peer-group median in at least 4 of 5 years.
-[View all SQL queries]()
+[View all SQL queries](https://github.com/sarahdini-design/ontario-ed-performance-analysis/tree/main/sql)
 
 
 ## Question 1
