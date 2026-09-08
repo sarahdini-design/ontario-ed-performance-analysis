@@ -82,9 +82,9 @@ A persistent gap was defined as being above the annual peer-group median in at l
 
 The first thing I looked at was how the two wait-time measures changed over the five years.
 
-For initial physician assessment, the median P90 wait increased from **2.5** hours in 2020–2021 to **4.3** hours in 2024–2025.
+For initial physician assessment, the median P90 wait increased from **2.5** hours in 2020–2021 to **4.3** hours in **2024–2025**.
 
-Admitted-patient ED stay followed a different pattern. It increased from **23.0** hours to **35.6** hours by 2022–2023, then came down somewhat over the next two years to about **33.3** hours in 2024–2025.
+Admitted-patient ED stay followed a different pattern. It increased from **23.0** hours to **35.6** hours by **2022–2023**, then came down somewhat over the next two years to about **33.3** hours in **2024–2025**.
 
 ![Five-year trend in Ontario ED wait times](images/five-year-ed-trends.png)
 *Five-year median P90 trends for initial physician assessment and admitted-patient ED stay.*
@@ -94,7 +94,7 @@ Admitted-patient ED stay followed a different pattern. It increased from **23.0*
 
 What stood out to me was that the two parts of the ED journey did not move in the same way.
 
-Initial-assessment waits increased fairly steadily, while admitted-patient ED stay increased much more sharply and then started to improve after 2022–2023.
+Initial-assessment waits increased fairly steadily, while admitted-patient ED stay increased much more sharply and then started to improve after **2022–2023**.
 
 Looking at the two measures together gave a clearer picture than looking at either one alone.
 
@@ -102,7 +102,7 @@ Looking at the two measures together gave a clearer picture than looking at eith
 
 The continued increase in initial-assessment waits is worth watching because it appears across several years, not just one.
 
-The improvement in admitted-patient ED stay after 2022–2023 is also worth following to see whether it continues.
+The improvement in admitted-patient ED stay after **2022–2023** is also worth following to see whether it continues.
 
 
 ## Question 2
@@ -145,11 +145,11 @@ To understand what is behind these patterns, I would need operational data such 
 
 ### Finding
 
-The 2024–2025 results showed large differences between Ontario hospital corporations relative to their peer-group median.
+When I looked at **2024–2025** on its own, there was a wide range of results even among corporations in the same peer group.
 
-For both indicators, some corporations had P90 wait times below their peer median, while others were well above it. The spread was especially noticeable for admitted-patient ED stay.
+Some corporations were below their peer median, while others were well above it. The difference was especially large for admitted-patient ED stay.
 
-One of the clearest examples was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3 hours**, compared with a peer-group median of **15.6 hours**, a gap of about **350.6%**.
+One example that stood out was Haliburton Highlands Health Services. Its admitted-patient P90 was **70.3** hours compared with a peer-group median of **15.6** hours, a gap of about **350.6%**.
 
 <a href="(https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/20242025InitialvsAdmittedPeerGaps?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)">
   <img
@@ -163,16 +163,17 @@ One of the clearest examples was Haliburton Highlands Health Services. Its admit
 
 ### Insight
 
-The Ontario-wide trend does not show how much performance varies from one corporation to another.
+This made it clear that an Ontario-wide number can hide a lot of variation between individual corporations.
 
-Even within the same hospital peer group, some corporations were much closer to the median than others. Looking at the gap from the peer median gave more context than comparing raw wait times alone.
+Even hospitals in the same peer group could be quite far apart.
 
-This also showed why one provincial number cannot describe the performance of every hospital corporation.
+Looking at the gap from the peer median gave me more useful context than comparing the raw wait times alone.
 
 ### Recommendation
 
-Large positive gaps are worth flagging for closer review, especially when the same corporation also shows a persistent gap over several years.
-These results should be treated as a starting point for further investigation, not as a ranking of hospital performance.
+Large positive gaps are useful flags for a closer look, especially when the same corporation also shows a persistent gap over several years.
+
+I would not use these results to rank hospitals. I would use them to decide where a deeper review might be useful.
 
 
 ## Question 4
@@ -194,32 +195,34 @@ Hamilton Health Sciences was slightly below its peer median for initial assessme
 
 ### Insight
 
-A single year can tell a different story from the five-year pattern.
+This is why I did not want to rely on only one year of data.
 
-Looking only at 2024–2025 could make a recent change look like a long-standing issue. Looking only at the five-year classification could also hide a recent improvement or deterioration.
+The latest year tells me where a corporation stands now, while the five-year view shows whether that pattern has been happening repeatedly.
 
-Using both views together gives more context: the latest year shows where a corporation stands now, while the persistent-gap classification shows whether that pattern has been repeated over time.
+Looking at both together gives a much better picture.
 
 ### Recommendation
 
-Current-year results and longer-term patterns should be reviewed together.
+I would review the latest-year result together with the longer-term pattern.
 
-When the latest-year result differs from the historical pattern, additional years of data would help show whether the change is continuing or is only temporary.
+If the two tell different stories, I would keep following the corporation over the next few years before deciding that the pattern has really changed.
 
-However, a large gap should be treated as a signal for further investigation rather than a conclusion about why a corporation is performing differently.
-
+A large gap is still a reason to look more closely, but it does not explain why the gap exists.
 
 ## Question 5
 ### Were persistent performance gaps concentrated in particular hospital peer groups?
 
 ### Finding
-Persistent performance gaps appeared across all four hospital peer groups rather than being concentrated in one type of hospital.
 
-Community–Medium had the highest share of corporations with a confirmed persistent gap in at least one indicator, with **10 of 16 corporations (62.5%)**. This was followed by Community–Large at **14 of 25 (56.0%)** and Teaching hospitals at **6 of 12 (50.0%)**.
+I wanted to see whether persistent gaps were mostly linked to one type of hospital, but that was not really what the data showed.
 
-Community–Small hospitals also showed persistent gaps, although several corporations in this group had suppressed initial-assessment values, making the comparison less complete.
+Persistent gaps appeared across all four peer groups.
 
-The type of gap also varied by peer group. For example, **3 of 12 Teaching corporations (25.0%)** had persistent gaps in both indicators, compared with **1 of 16 Community–Medium corporations (6.3%)**.
+Community–Medium had the highest share, with **10** of **16** corporations **(62.5%)** showing a confirmed persistent gap in at least one indicator. Community–Large followed at **14** of **25** **(56.0%)**, and Teaching hospitals were **6** of **12 (50.0%)**.
+
+Community–Small hospitals also showed persistent gaps, although suppressed initial-assessment values made that comparison a little less complete.
+
+The type of gap also differed between groups. For example, **3** of **12** Teaching corporations had persistent gaps in both indicators, compared with **1** of **16** Community–Medium corporations.
 
 #### Peer-group summary
 
@@ -243,16 +246,18 @@ The type of gap also varied by peer group. For example, **3 of 12 Teaching corpo
 *Distribution of five-year persistent-gap patterns within each Ontario hospital peer group.* [View this chart interactively in Tableau Public.](https://public.tableau.com/views/OntarioEmergencyDepartmentPerformanceAnalysis/PersistentGapsbyHospitalPeerGroup?:language=en-US&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 ### Insight
-There was no single hospital peer group where persistent ED performance gaps were overwhelmingly concentrated.
 
-Although Community–Medium had the highest proportion, persistent gaps were still common across the other peer groups. What stood out more was that the type of gap differed between groups. Some had more corporations with a gap in only one part of the ED journey, while Teaching hospitals had a relatively larger share with persistent gaps in both indicators.
+No single peer group clearly explained the persistent gaps.
+
+What I found more interesting was the mix of gap types inside each group. Some groups had more corporations with a gap in only one part of the ED journey, while Teaching hospitals had a larger share with gaps in both measures.
 
 ### Recommendation
-Peer group provides useful context when comparing hospital corporations, but it should not be used on its own to explain persistent performance gaps.
 
-A useful next step would be to examine corporations with persistent gaps within each peer group alongside operational information such as patient volume, case mix, staffing, and inpatient capacity.
+Peer group is useful for making a fairer comparison, but I would not use hospital type by itself to explain the gaps.
 
-For Community–Small hospitals, suppressed initial-assessment values should also be considered before making broader comparisons with the other peer groups.
+The next step would be to look at individual corporations together with operational information such as patient volume, case mix, staffing, and inpatient capacity.
+
+For Community–Small hospitals, I would also keep the suppressed initial-assessment values in mind when interpreting the results.
 
 
 ## Question 6
@@ -261,17 +266,17 @@ For Community–Small hospitals, suppressed initial-assessment values should als
 
 ### Finding
 
-Nine hospital corporations showed persistent gaps in both ED indicators over the five-year period.
+### Finding
 
-When I compared those corporations with their 2024–2025 peer-group benchmarks, **7 of the 9 were still above their peer median in both indicators**.
+The last step was to bring the long-term and current-year results together.
 
-Two corporations showed a more mixed current-year pattern. Hamilton Health Sciences was slightly below its peer median for initial assessment but remained above it for admitted-patient ED stay. Arnprior Regional Health showed the opposite pattern: initial assessment remained above the peer median, while admitted-patient ED stay was below it.
+Nine corporations had persistent gaps in both ED indicators over the five-year period. When I checked them against their **2024–2025** peer medians, seven were still above the median in both measures.
 
-Some of the largest current gaps within this persistent-gap group were seen at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
+Hamilton Health Sciences and Arnprior Regional Health were different. Each had moved below its peer median in one of the two measures.
+
+Some of the largest current gaps within this group were at Cambridge Memorial Hospital, Niagara Health System, and Peterborough Regional Health Centre.
 
 #### Current position of persistent-gap corporations
-
-Nine hospital corporations had persistent gaps in both ED indicators over the five-year period. In 2024–2025, seven of the nine were still above their peer-group median in both indicators.
 
 | Corporation | Peer Group | Initial Gap % | Admitted Gap % | 2024–2025 Position |
 |---|---|---:|---:|---|
@@ -297,17 +302,19 @@ Nine hospital corporations had persistent gaps in both ED indicators over the fi
 
 ### Insight
 
-For most corporations with persistent gaps in both indicators, the longer-term pattern was still visible in the most recent year.
+For most of these corporations, the five-year pattern was still visible in the latest year.
 
-The seven corporations that remained above their peer median in both measures are useful starting points for further review. At the same time, Hamilton Health Sciences and Arnprior Regional Health show why the latest year should not simply be treated as a continuation of the historical pattern.
+But Hamilton and Arnprior were good reminders that the latest result does not always continue the historical pattern.
+
+That is why I found it more useful to look at current and long-term performance together.
 
 ### Recommendation
 
-Corporations that combine a five-year persistent gap with above-peer **wait times** in both indicators in 2024–2025 would be reasonable priorities for a closer operational review.
+The seven corporations that remained above their peer median in both measures would be my first group for a closer operational review.
 
-The purpose of that review would be to understand what may be contributing to the pattern, not to assume a cause from the wait-time data alone. Patient volume, case mix, staffing, inpatient capacity, and other operational measures would be needed before drawing conclusions.
+The goal would not be to assume what is causing the gap. I would want to bring in patient volume, case mix, staffing, inpatient capacity, and other operational data before drawing conclusions.
 
-Corporations whose latest-year results have moved away from their historical pattern should also be followed over additional years to see whether the change continues.
+For corporations where the latest result has started to change, I would keep following the trend to see whether the improvement continues.
 
 
 ## Limitations
@@ -351,11 +358,13 @@ Based on the patterns identified in this analysis, a few areas would be worth pr
 
 ## Conclusion
 
-This analysis showed that Ontario ED wait-time performance changed over the five-year period, but the two indicators did not follow the same pattern.
+My original question was whether some Ontario hospital corporations showed persistent ED performance gaps, and whether those gaps were mainly happening in initial assessment, admitted-patient ED stay, or both.
 
-Initial physician assessment waits increased fairly steadily, while admitted-patient ED stay rose more sharply before showing some improvement after 2022–2023. Looking at both measures together also showed that persistent gaps were not limited to one hospital peer group or one stage of the ED visit.
+The answer turned out to be different across corporations. Some showed a persistent gap mainly in initial assessment, some in admitted-patient ED stay, and nine showed persistent gaps in both.
 
-Comparing corporations with their peer-group median added useful context to the raw wait times, while the five-year view helped separate longer-term patterns from a single-year result.
+The gaps also appeared across all hospital peer groups, so there was no single hospital type or single stage of the ED journey that explained the overall pattern.
 
-Overall, the analysis helped identify where performance gaps appeared repeatedly and which corporations may be worth looking at more closely. It does not explain why those gaps exist, but it provides a useful starting point for deeper operational analysis.
+Using annual peer-group medians helped me put each corporation's wait time in context, while the five-year view helped separate a repeated pattern from a single-year result.
+
+This analysis cannot explain why the gaps exist, but it does show where a closer operational review could be most useful.
 
