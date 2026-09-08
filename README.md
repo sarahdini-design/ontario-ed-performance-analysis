@@ -11,7 +11,7 @@ Emergency department performance can look very different depending on which part
 - Physician Initial Assessment wait time
 - Total ED time for patients who were admitted
 
-I wanted to see how these measures changed over time, how hospital corporations compared with similar hospitals, and whether some performance gaps appeared repeatedly across several years.
+When I first reviewed the CIHI data, I noticed that the two ED indicators could tell very different stories about the same hospital corporation. That led me to a question I wanted to explore: were some performance gaps showing up repeatedly over time, and if so, at which stage of the ED visit?
 
 ## Data Sources
 
@@ -47,6 +47,7 @@ For this case study, I used the published indicator values to build a separate l
 - compared the two ED indicators to see where those persistent gaps appeared.
 
 The peer-median benchmark and persistent-gap definition used here are analytical methods created for this project and are separate from CIHI's official performance comparison methodology.
+I initially looked at the mean as a possible peer benchmark, but some corporation-level P90 values were quite high. I chose the median because it was less affected by those extreme values and gave me a more stable reference point for this analysis.
 
 ### SQL example
 
@@ -176,9 +177,7 @@ These results should be treated as a starting point for further investigation, n
 
 ### Finding
 
-Not always.
-
-The latest-year result gives a useful snapshot, but it does not always match the longer-term pattern.
+This was one of the more useful checks for me because the latest year did not always tell the same story as the five-year pattern. A corporation could look better in 2024–2025 and still have a clear persistent gap over time.
 
 Among the nine corporations with persistent gaps in both indicators, seven were still above their peer median in both measures in 2024–2025. Two showed a mixed latest-year result.
 
