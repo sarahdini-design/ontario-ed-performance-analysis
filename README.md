@@ -329,9 +329,9 @@ A few limitations are important to keep in mind:
 
 - The datasets do not include operational information such as staffing, ED visit volumes, inpatient bed availability, or local capacity. Because of this, the analysis can identify patterns but cannot determine what caused them.
 
-- The persistent-gap rule used in this project — being above the annual peer-group median in at least 4 of 5 years — was created for this analysis. It is separate from CIHI's official performance-comparison methodology.
+- The persistent-gap rule used in this project — being above the annual peer-group median in at least **4** of **5** years — was created for this analysis. It is separate from CIHI's official performance-comparison methodology.
 
-- The study covers five fiscal years, from 2020–2021 to 2024–2025. More years of data would be needed to know whether recent changes are temporary or part of a longer-term shift.
+- The study covers five fiscal years, from **2020–2021** to **2024–2025**. More years of data would be needed to know whether recent changes are temporary or part of a longer-term shift.
 
 
 ## Final Recommendations
