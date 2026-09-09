@@ -80,7 +80,7 @@ A persistent gap was defined as being above the annual peer-group median in at l
 
 The first thing I looked at was how the two wait-time measures changed over the five years.
 
-For initial physician assessment, the median P90 wait increased from **2.5** hours in 2020–2021 to **4.3** hours in **2024–2025**.
+For initial physician assessment, the median P90 wait increased from **2.5** hours in **2020–2021** to **4.3** hours in **2024–2025**.
 
 Admitted-patient ED stay followed a different pattern. It increased from **23.0** hours to **35.6** hours by **2022–2023**, then came down somewhat over the next two years to about **33.3** hours in **2024–2025**.
 
