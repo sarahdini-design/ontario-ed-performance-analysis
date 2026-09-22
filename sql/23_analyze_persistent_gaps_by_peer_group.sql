@@ -40,6 +40,9 @@ SELECT
   ) AS pct_of_peer_group
 
 FROM pattern_counts
+  ORDER BY
+  hospital_peer_group,
+  corporation_count DESC;
 
 
 -- Summarize the share of corporations with a confirmed persistent gap
@@ -85,7 +88,3 @@ FROM corporation_level
 GROUP BY hospital_peer_group
 
 ORDER BY share_pct DESC;
-
-ORDER BY
-  hospital_peer_group,
-  corporation_count DESC;
