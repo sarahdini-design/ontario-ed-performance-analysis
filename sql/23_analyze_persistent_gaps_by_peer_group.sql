@@ -1,5 +1,7 @@
--- Compare persistent performance-gap patterns across hospital peer groups.
--- Report both corporation counts and percentages within each peer group.
+-- Count corporations with a confirmed persistent gap
+-- in at least one of the two ED indicators.
+-- Include corporations with an admitted-patient gap
+-- even when initial-assessment data is insufficient.
 
 WITH corporation_level AS (
   SELECT DISTINCT
@@ -61,10 +63,11 @@ SELECT
 
   COUNTIF(
     performance_gap_pattern IN (
-      'Persistent gap in both indicators',
-      'Initial Assessment only',
-      'Admitted ED stay only'
-    )
+  'Persistent gap in both indicators',
+  'Initial Assessment only',
+  'Admitted ED stay only',
+  'Admitted gap; Initial data insufficient'
+)
   ) AS corporations_with_persistent_gap,
 
   COUNT(*) AS total_corporations,
@@ -73,9 +76,10 @@ SELECT
     100 * SAFE_DIVIDE(
       COUNTIF(
         performance_gap_pattern IN (
-          'Persistent gap in both indicators',
-          'Initial Assessment only',
-          'Admitted ED stay only'
+  'Persistent gap in both indicators',
+  'Initial Assessment only',
+  'Admitted ED stay only',
+  'Admitted gap; Initial data insufficient'
         )
       ),
       COUNT(*)
