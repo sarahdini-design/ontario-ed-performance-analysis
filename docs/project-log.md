@@ -23,7 +23,7 @@ A short record of the main milestones and analytical decisions made during the O
 - Confirmed 64 corporations across five fiscal years, giving 320 corporation-year records in each dataset.
 - Identified 17 suppressed physician initial-assessment records across five corporations.
 - Reviewed CIHI trend notes and other data-quality considerations that could affect longitudinal comparisons.
-- Confirmed that the two datasets could be aligned using `Corporation + Time frame`.le filtering and cleaning, validate the analytical subsets, and integrate the two indicators.
+- Confirmed that the two datasets could be aligned using `Corporation + Time frame`.
 
 ## Data Cleaning and Validation
 
